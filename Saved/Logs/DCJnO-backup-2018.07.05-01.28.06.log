@@ -1,0 +1,1211 @@
+﻿Log file open, 07/04/18 21:59:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DCJnO
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-774453638) SRandInit(-774453638).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.228804
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.04-20.59.23:271][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.04-20.59.23:271][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.04-20.59.23:358][  0]LogInit: Computer: STARLORD
+[2018.07.04-20.59.23:358][  0]LogInit: User: oaste
+[2018.07.04-20.59.23:358][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.04-20.59.23:358][  0]LogInit: High frequency timer resolution =2.240911 MHz
+[2018.07.04-20.59.23:358][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.07.04-20.59.23:358][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.04-20.59.23:358][  0]LogMemory: Process Physical Memory: 277.93 MB used, 277.93 MB peak
+[2018.07.04-20.59.23:358][  0]LogMemory: Process Virtual Memory: 277.17 MB used, 277.17 MB peak
+[2018.07.04-20.59.23:358][  0]LogMemory: Physical Memory: 5057.52 MB used,  2904.63 MB free, 7962.15 MB total
+[2018.07.04-20.59.23:358][  0]LogMemory: Virtual Memory: 4792.99 MB used,  2904.63 MB free, 134217728.00 MB total
+[2018.07.04-20.59.23:908][  0]LogInit: Using OS detected language (en-GB).
+[2018.07.04-20.59.23:908][  0]LogInit: Using OS detected locale (en-GB).
+[2018.07.04-20.59.23:915][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.07.04-20.59.32:259][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.04-20.59.32:393][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2018.07.04-20.59.32:394][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.07.04-20.59.32:418][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.04-20.59.32:419][  0]LogD3D11RHI:       0/0/3981 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.04-20.59.32:419][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.04-20.59.32:454][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.04-20.59.32:454][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.04-20.59.32:454][  0]LogWindows: EnumDisplayDevices:
+[2018.07.04-20.59.32:454][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2018.07.04-20.59.32:455][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.07.04-20.59.32:455][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.07.04-20.59.32:455][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.04-20.59.32:455][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2018.07.04-20.59.32:455][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.04-20.59.32:455][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.04-20.59.32:455][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2018.07.04-20.59.32:487][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.04-20.59.32:518][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.07.04-20.59.32:519][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Intermediate/Shaders/WorkingDirectory/110652/).
+[2018.07.04-20.59.32:520][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/oaste/AppData/Local/Temp/UnrealShaderWorkingDir/F02ECC3846ECBBEEC7C401B35564F58F/'.
+[2018.07.04-20.59.32:520][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.04-20.59.37:765][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.04-20.59.37:928][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.04-20.59.38:109][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.04-20.59.38:289][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.04-20.59.38:502][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.04-20.59.38:705][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.04-20.59.38:844][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.04-20.59.39:009][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.04-20.59.39:178][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.04-20.59.39:405][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.04-20.59.39:609][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.04-20.59.39:867][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.04-20.59.40:054][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.04-20.59.40:237][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.04-20.59.40:441][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.04-20.59.40:848][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.04-20.59.40:848][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.04-20.59.41:078][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.04-20.59.41:507][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.04-20.59.41:606][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.04-20.59.41:791][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.04-20.59.41:959][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.04-20.59.42:176][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.04-20.59.42:374][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.04-20.59.42:374][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.04-20.59.45:124][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.04-20.59.46:275][  0]LogDerivedDataCache: Loaded boot cache 1.13s 93MB C:/Users/oaste/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.04-20.59.46:275][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/oaste/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.07.04-20.59.46:275][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.04-20.59.46:275][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.04-20.59.46:275][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.04-20.59.46:275][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.04-20.59.46:403][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.04-20.59.46:417][  0]LogDerivedDataCache: Using Local data cache path C:/Users/oaste/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.04-20.59.46:443][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.04-20.59.46:565][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.04-20.59.46:583][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.04-20.59.46:583][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.04-21.00.01:692][  0]LogAssetRegistry: FAssetRegistry took 0.0428 seconds to start up
+[2018.07.04-21.00.03:762][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.04-21.00.07:201][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.07.04-21.00.10:719][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.04-21.00.10:896][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.04-21.00.10:897][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.04-21.00.10:897][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.04-21.00.10:897][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.04-21.00.10:897][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.04-21.00.13:401][  0]LogNetVersion: DCJnO , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2143308826)
+[2018.07.04-21.00.16:933][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.369821 seconds
+[2018.07.04-21.00.16:942][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.07.04-21.00.16:942][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.07.04-21.00.16:942][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.04-21.00.17:202][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.04-21.01.24:357][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.04-21.01.24:708][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.04-21.01.28:315][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.04-21.01.30:051][  0]SourceControl: Source control is disabled
+[2018.07.04-21.01.30:051][  0]SourceControl: Source control is disabled
+[2018.07.04-21.01.30:280][  0]SourceControl: Source control is disabled
+[2018.07.04-21.01.30:701][  0]SourceControl: Source control is disabled
+[2018.07.04-21.01.34:686][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.04-21.01.35:925][  0]LogOcInput: OculusInput pre-init called
+[2018.07.04-21.01.37:297][  0]LogEngine: Initializing Engine...
+[2018.07.04-21.01.37:433][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.04-21.01.38:057][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.04-21.01.38:058][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.04-21.01.38:615][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.04-21.01.38:686][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.04-21.01.38:801][  0]LogInit: FAudioDevice initialized.
+[2018.07.04-21.01.39:147][  0]LogDerivedDataCache: Saved boot cache 0.34s 93MB C:/Users/oaste/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.04-21.01.39:192][  0]LogInit: Texture streaming: Enabled
+[2018.07.04-21.01.40:017][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.04-21.01.40:017][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={05D077E9-498A-80E5-A445-64A2C04B8F54}
+[2018.07.04-21.01.41:648][  0]LogInit: Transaction tracking system initialized
+[2018.07.04-21.01.43:079][  0]BlueprintLog: New page: Editor Load
+[2018.07.04-21.01.47:218][  0]LocalizationService: Localization service is disabled
+[2018.07.04-21.01.50:864][  0]LogConsoleResponse: Display: 
+[2018.07.04-21.01.54:628][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/' took 0.07s
+[2018.07.04-21.01.54:628][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.04-21.01.54:628][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.04-21.01.54:660][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.04-21.02.05:301][  0]SourceControl: Source control is disabled
+[2018.07.04-21.02.05:338][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.04-21.02.05:396][  0]LightingResults: New page: Lighting Build
+[2018.07.04-21.02.05:675][  0]MapCheck: New page: Map Check
+[2018.07.04-21.02.05:675][  0]LightingResults: New page: Lighting Build
+[2018.07.04-21.02.06:909][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.04-21.02.07:083][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.04-21.02.07:128][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.04-21.02.07:284][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 155.9ms to complete.
+[2018.07.04-21.02.07:284][  0]LogFileHelpers: Loading map 'Template_Default' took 1.946
+[2018.07.04-21.02.08:854][  0]LogCollectionManager: Loaded 0 collections in 0.020132 seconds
+[2018.07.04-21.02.09:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Collections/' took 0.01s
+[2018.07.04-21.02.09:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Developers/oaste/Collections/' took 0.01s
+[2018.07.04-21.02.09:101][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Collections/' took 0.01s
+[2018.07.04-21.02.09:101][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.04-21.02.09:136][  0]LogContentBrowser: Native class hierarchy populated in 0.0228 seconds. Added 2386 classes and 500 folders.
+[2018.07.04-21.02.09:377][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2018.07.04-21.02.11:780][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.07.04-21.02.11:955][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2018.07.04-21.02.12:146][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.04-21.02.12:149][  0]LogSlate: Took 0.000449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.04-21.02.12:186][  0]LogSlate: Took 0.024045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.04-21.02.12:686][  0]LogRenderer: Reallocating scene render targets to support 780x416 Format 10 NumSamples 1 (Frame:1).
+[2018.07.04-21.02.14:181][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2018.07.04-21.02.14:181][  0]LogLoad: (Engine Initialization) Total time: 175.80 seconds
+[2018.07.04-21.02.14:181][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.04-21.02.14:182][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.07.04-21.02.14:517][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.04-21.02.14:555][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.04-21.02.14:578][  0]LogSlate: Took 0.010725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.04-21.02.15:198][  2]LogAssetRegistry: Asset discovery search completed in 133.5292 seconds
+[2018.07.04-21.02.15:203][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.04-21.02.15:203][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2018.07.04-21.16.24:166][600]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.04-21.16.24:503][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.04-21.16.24:673][600]PIE: New page: PIE session: Untitled_1 (4 Jul 2018 23:16:24)
+[2018.07.04-21.16.24:673][600]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.04-21.16.24:677][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003763s)
+[2018.07.04-21.16.24:678][600]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.04-21.16.24:679][600]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2018.07.04-21.16.24:679][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005854s)
+[2018.07.04-21.16.24:712][600]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.04-21.16.24:750][600]LogInit: FAudioDevice initialized.
+[2018.07.04-21.16.25:793][600]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.04-21.16.25:819][600]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.07.04-22.16.25
+[2018.07.04-21.16.25:819][600]LogWorld: Bringing up level for play took: 0.002010
+[2018.07.04-21.16.26:085][600]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 11 classes and 0 folders.
+[2018.07.04-21.16.26:086][600]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.04-21.16.26:086][600]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.04-21.16.26:086][600]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.04-21.16.26:091][600]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.04-21.16.26:091][600]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 2.228
+[2018.07.04-21.16.29:800][709]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.29:801][709]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.30:919][743]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.30:919][743]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.33:603][818]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.33:603][818]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.35:862][887]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.35:862][887]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.35:903][888]PIE: Warning: GAArrow_C_3.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2018.07.04-21.16.37:785][945]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.37:785][945]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.37:828][946]PIE: Warning: GAArrow_C_4.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2018.07.04-21.16.40:913][ 36]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_5.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.40:914][ 36]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_5.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.16.40:986][ 38]PIE: Warning: GAArrow_C_5.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2018.07.04-21.16.41:376][ 50]PIE: Warning: GAArrow_C_5.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.16.41:640][ 58]PIE: Warning: GAArrow_C_5.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.16.41:680][ 59]PIE: Warning: GAArrow_C_5.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.16.41:705][ 60]PIE: Warning: GAArrow_C_5.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.16.41:737][ 61]PIE: Warning: GAArrow_C_5.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.16.41:841][ 64]PIE: Warning: GAArrow_C_5.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2018.07.04-21.16.42:114][ 72]PIE: Warning: GAArrow_C_3.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2018.07.04-21.16.42:183][ 74]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.16.42:217][ 75]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.16.42:263][ 76]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.22.30:287][544]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.04-21.22.31:257][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.04-21.22.32:031][572]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.04-21.22.35:001][656]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.04-21.22.35:051][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.04-21.22.35:052][656]PIE: New page: PIE session: Untitled_1 (4 Jul 2018 23:22:35)
+[2018.07.04-21.22.35:052][656]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.04-21.22.35:058][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005776s)
+[2018.07.04-21.22.35:066][656]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.04-21.22.35:066][656]LogPlayLevel: PIE: World Init took: (0.008460s)
+[2018.07.04-21.22.35:067][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.014964s)
+[2018.07.04-21.22.35:105][656]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.04-21.22.35:144][656]LogInit: FAudioDevice initialized.
+[2018.07.04-21.22.35:179][656]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.04-21.22.35:181][656]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.07.04-22.22.35
+[2018.07.04-21.22.35:182][656]LogWorld: Bringing up level for play took: 0.001860
+[2018.07.04-21.22.35:183][656]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.04-21.22.35:183][656]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.04-21.22.35:183][656]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.04-21.22.35:186][656]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.04-21.22.35:186][656]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.677
+[2018.07.04-21.22.44:315][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.04-21.23.18:532][715]MapCheck: New page: Map Check
+[2018.07.04-21.23.18:556][715]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.04-21.23.18:556][715]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.04-21.23.18:800][715]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.04-21.23.18:818][715]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.04-21.23.18:829][715]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.07.04-21.24.23:155][715]TextureStreamingBuild: Display: Compiling optional shaders took 64.369 seconds.
+[2018.07.04-21.24.23:191][715]LogLevel: Display: Export Material TexCoord Scales took 0.036 seconds.
+[2018.07.04-21.24.23:202][715]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2018.07.04-21.24.23:244][715]LightingResults: New page: Lighting Build - 4 Jul 2018 23:24:23
+[2018.07.04-21.24.23:538][715]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.04-21.24.24:668][715]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.04-21.24.24:752][715]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.04-21.24.28:794][715]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.07.04-21.24.28:922][715]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.07.04-21.24.34:149][715]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.04-21.24.34:149][715]LogSwarmInterface: [TryOpenConnection] Local Process ID is 110652
+[2018.07.04-21.24.40:868][715]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.07.04-21.24.40:868][715]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.04-21.24.40:869][715]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.04-21.24.40:869][715]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.04-21.24.40:869][715]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.04-21.24.40:869][715]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.04-21.24.42:475][715]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.04-21.24.42:475][715]MapCheck: New page: Untitled_1 - 4 Jul 2018 23:24:42
+[2018.07.04-21.24.42:476][715]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.07.04-21.24.42:719][715]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 243.675ms to complete.
+[2018.07.04-21.24.42:743][715]LogEditorBuildUtils: Build time 1:24
+[2018.07.04-21.24.43:112][716]LogSlate: Took 0.000828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.04-21.24.43:525][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.04-21.24.43:634][716]LogSavePackage: Save=107.65ms
+[2018.07.04-21.24.43:634][716]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Untitled_1_Auto165AC29C74CED3D53C284089747EA50C9.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.07.04-21.24.43:638][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.07.04-21.24.43:652][716]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.355
+[2018.07.04-21.24.43:654][716]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.355
+[2018.07.04-21.24.56:587][748]Job is a success!
+[2018.07.04-21.24.57:214][749]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.07.04-21.24.57:214][749]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.07.04-21.24.57:214][749]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.07.04-21.24.57:214][749]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.07.04-21.24.57:214][749]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2018.07.04-21.24.57:214][749]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.07.04-21.24.57:513][749]Lightmass on STARLORD: 8.49 sec total, 498 ms importing, 75 ms setup, 4.22 sec photons, 3.66 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 14.6 sec total, 3.52 sec processing.
+[2018.07.04-21.24.57:679][749]LogStaticLightingSystem: Illumination: 34.1 sec (66 ms encoding lightmaps, 68 ms encoding shadowmaps)
+[2018.07.04-21.24.57:679][749]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.04-21.24.57:679][749]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.04-21.24.58:136][749]DumpUnbuiltLightIteractions
+[2018.07.04-21.24.58:136][749]Lights with unbuilt interactions: 0
+[2018.07.04-21.24.58:136][749]
+[2018.07.04-21.24.58:136][749]Primitives with unbuilt interactions: 0
+[2018.07.04-21.24.58:172][750]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.04-21.24.58:172][750]MapCheck: New page: Untitled_1 - 4 Jul 2018 23:24:58
+[2018.07.04-21.24.58:480][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 307.651ms to complete.
+[2018.07.04-21.34.36:591][158]LogSlate: Took 0.012447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.04-21.34.45:981][182]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.219
+[2018.07.04-21.38.55:154][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.04-21.38.55:234][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.04-21.38.55:235][ 58]PIE: New page: PIE session: Untitled_1 (4 Jul 2018 23:38:55)
+[2018.07.04-21.38.55:235][ 58]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.04-21.38.55:241][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005487s)
+[2018.07.04-21.38.55:243][ 58]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.04-21.38.55:244][ 58]LogPlayLevel: PIE: World Init took: (0.002876s)
+[2018.07.04-21.38.55:244][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008924s)
+[2018.07.04-21.38.55:281][ 58]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.04-21.38.55:333][ 58]LogInit: FAudioDevice initialized.
+[2018.07.04-21.38.55:393][ 58]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.04-21.38.55:396][ 58]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.07.04-22.38.55
+[2018.07.04-21.38.55:397][ 58]LogWorld: Bringing up level for play took: 0.002283
+[2018.07.04-21.38.55:398][ 58]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.04-21.38.55:398][ 58]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.04-21.38.55:398][ 58]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.04-21.38.55:401][ 58]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.04-21.38.55:401][ 58]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.462
+[2018.07.04-21.39.15:953][534]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.39.15:954][534]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-21.39.22:300][712]PIE: Warning: GAArrow_C_0.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2018.07.04-21.39.22:454][716]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.22:483][717]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.22:514][718]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.22:540][719]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.22:585][720]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.22:617][721]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.22:648][722]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.22:678][723]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.22:724][724]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:234][739]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:280][740]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:304][741]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:344][742]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:374][743]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:375][743]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:427][744]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:455][745]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:494][746]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:526][747]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:565][748]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:594][749]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:632][750]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:661][751]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:684][752]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:734][753]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:760][754]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:815][755]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:867][756]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.23:927][757]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.24:273][758]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.24:607][759]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.24:975][760]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.25:272][761]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.25:605][762]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.25:939][763]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.26:291][764]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.26:613][765]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.26:953][766]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.27:279][767]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.27:614][768]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.27:946][769]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.28:281][770]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.28:620][771]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.28:949][772]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.29:282][773]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.29:620][774]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.29:950][775]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.30:290][776]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.30:962][778]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.31:295][779]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.31:627][780]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.31:963][781]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.32:298][782]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.32:672][783]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.33:604][785]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.33:932][786]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.34:253][787]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.34:586][788]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.34:920][789]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.35:254][790]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.35:586][791]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.35:932][792]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.36:253][793]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.36:586][794]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.36:920][795]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.37:282][796]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.37:592][797]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.37:924][798]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.38:261][799]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.38:591][800]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.40:925][807]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.41:260][808]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.41:594][809]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.41:930][810]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.42:258][811]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.42:592][812]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.42:926][813]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.43:260][814]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.43:606][815]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.43:930][816]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.44:266][817]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.44:603][818]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.44:932][819]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.45:265][820]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.45:932][822]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.46:265][823]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.46:597][824]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.48:862][830]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.49:195][831]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.49:529][832]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.49:861][833]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.51:198][837]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.51:529][838]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.51:866][839]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.52:531][841]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.53:530][844]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.55:205][849]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.55:539][850]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.55:871][851]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.56:204][852]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.56:538][853]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.56:871][854]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.57:211][855]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.57:558][856]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.57:885][857]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.58:240][858]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.58:569][859]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.58:904][860]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.59:236][861]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.59:575][862]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.39.59:915][863]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.00:301][864]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.00:632][865]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.00:969][866]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.02:669][871]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.02:991][872]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.03:404][873]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.03:671][874]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.03:995][875]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.04:524][876]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.04:812][877]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.05:146][878]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.05:512][879]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.05:815][880]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.06:148][881]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.06:482][882]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.06:814][883]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.07:151][884]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.07:481][885]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.07:814][886]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.08:148][887]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.08:493][888]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.08:814][889]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.12:161][899]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.12:505][900]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.12:830][901]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.13:163][902]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.13:496][903]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.13:830][904]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.14:165][905]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.14:500][906]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.14:831][907]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.15:834][910]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.16:834][913]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.17:164][914]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.17:509][915]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.17:844][916]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.18:179][917]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.18:844][919]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.19:179][920]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.19:518][921]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.22:185][929]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.22:518][930]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.22:858][931]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.23:519][933]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.23:853][934]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.24:187][935]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.24:521][936]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.24:854][937]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.25:189][938]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.25:520][939]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.25:854][940]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.26:520][942]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.26:854][943]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.27:190][944]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.29:522][951]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.30:189][953]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.30:524][954]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.30:854][955]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.31:189][956]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.31:523][957]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.31:855][958]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.32:189][959]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.32:521][960]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.32:855][961]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.35:199][968]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.35:531][969]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.35:864][970]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.36:197][971]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.36:530][972]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.36:864][973]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.37:197][974]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.37:530][975]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.37:864][976]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.38:200][977]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.38:531][978]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.38:864][979]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.39:198][980]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.39:530][981]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.40:197][983]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.41:530][987]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.41:864][988]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.42:200][989]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.42:532][990]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.42:864][991]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.43:200][992]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.43:531][993]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.43:864][994]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.44:199][995]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.44:531][996]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.44:871][997]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.45:204][998]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.45:538][999]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.45:872][  0]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.46:205][  1]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.46:539][  2]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.46:878][  3]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.47:207][  4]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.47:541][  5]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.47:876][  6]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.49:876][ 12]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.50:209][ 13]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.50:544][ 14]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.50:877][ 15]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.51:209][ 16]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.51:548][ 17]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.51:875][ 18]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.52:209][ 19]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.52:544][ 20]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.52:879][ 21]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.53:546][ 23]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.53:879][ 24]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.54:214][ 25]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.57:549][ 35]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.57:881][ 36]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.58:219][ 37]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.58:547][ 38]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.58:881][ 39]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.59:216][ 40]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.59:548][ 41]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.40.59:880][ 42]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.00:220][ 43]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.00:550][ 44]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.00:883][ 45]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.01:217][ 46]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.01:550][ 47]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.01:884][ 48]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.02:219][ 49]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.02:550][ 50]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.02:889][ 51]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.05:551][ 59]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.05:883][ 60]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.06:217][ 61]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.06:550][ 62]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.06:884][ 63]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.07:222][ 64]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.07:569][ 65]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.07:898][ 66]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.08:241][ 67]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.08:567][ 68]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.08:899][ 69]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.09:232][ 70]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.09:565][ 71]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.09:899][ 72]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.10:232][ 73]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.13:232][ 82]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.13:565][ 83]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.13:899][ 84]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.14:234][ 85]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.14:570][ 86]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.14:905][ 87]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.15:237][ 88]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.15:571][ 89]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.15:904][ 90]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.16:241][ 91]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.16:571][ 92]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.17:582][ 95]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.17:909][ 96]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.18:241][ 97]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.20:574][104]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.20:909][105]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.21:241][106]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.21:575][107]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.23:578][113]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.23:912][114]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.24:245][115]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.24:579][116]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.24:914][117]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.25:247][118]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.25:580][119]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.25:914][120]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.26:250][121]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.26:581][122]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.27:581][125]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.27:915][126]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.29:248][130]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.29:581][131]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.29:915][132]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.30:247][133]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.30:581][134]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.30:914][135]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.31:251][136]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.31:583][137]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.31:918][138]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.32:249][139]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.32:583][140]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.32:916][141]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.33:249][142]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.33:582][143]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.33:916][144]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.34:253][145]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.36:918][153]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.37:251][154]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.37:585][155]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.37:918][156]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.38:254][157]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.38:585][158]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.38:919][159]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.39:251][160]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.39:589][161]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.39:922][162]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.40:255][163]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.40:589][164]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.41:280][166]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.42:620][170]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.42:962][171]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.43:289][172]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.43:621][173]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.43:963][174]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.44:322][175]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.44:639][176]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.44:970][177]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.45:483][178]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.46:112][180]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.46:855][182]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.47:190][183]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.47:753][184]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.48:732][186]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.49:095][187]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.49:283][188]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.51:605][194]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.51:940][195]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.52:271][196]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.52:607][197]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.52:940][198]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.53:270][199]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.53:628][200]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.53:956][201]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.54:301][202]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.54:631][203]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.54:971][204]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.55:355][205]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.55:694][206]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.56:032][207]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.41.56:366][208]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.04:016][214]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.04:547][215]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.04:752][216]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.05:277][217]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.06:228][218]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.06:723][219]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.10:803][220]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.12:522][221]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.12:955][222]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.13:186][223]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.13:684][224]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.13:969][225]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.14:298][226]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:199][235]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:228][236]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:265][237]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:314][238]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:346][239]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:383][240]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:408][241]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:460][242]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:497][243]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:524][244]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:601][246]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:665][248]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:891][255]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.15:921][256]PIE: Warning: GAArrow_C_0.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-21.42.43:102][778]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.04-21.42.45:017][778]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0112 seconds. Added 113 classes and 0 folders.
+[2018.07.04-21.42.49:023][778]LogSlate: Took 0.022265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.04-21.42.49:624][779]LogSlate: Took 0.240383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.04-21.48.10:042][564]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.789
+[2018.07.04-21.58.11:895][978]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.201
+[2018.07.04-22.08.12:591][637]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.110
+[2018.07.04-22.14.22:100][111]LogActorFactory: Actor Factory created Cube
+[2018.07.04-22.14.23:564][137]LogActorFactory: Actor Factory created Cube
+[2018.07.04-22.15.05:313][ 19]MapCheck: New page: Map Check
+[2018.07.04-22.15.05:377][ 19]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.04-22.15.05:378][ 19]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.04-22.15.05:481][ 19]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.04-22.15.05:498][ 19]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.04-22.15.05:565][ 19]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.07.04-22.17.01:852][ 19]TextureStreamingBuild: Display: Compiling optional shaders took 116.398 seconds.
+[2018.07.04-22.17.01:888][ 19]LogLevel: Display: Export Material TexCoord Scales took 0.036 seconds.
+[2018.07.04-22.17.01:903][ 19]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2018.07.04-22.17.01:975][ 19]LightingResults: New page: Lighting Build - 5 Jul 2018 00:17:01
+[2018.07.04-22.17.02:037][ 19]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.04-22.17.02:099][ 19]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.04-22.17.02:099][ 19]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.04-22.17.02:117][ 19]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.04-22.17.02:117][ 19]LogSwarmInterface: [TryOpenConnection] Local Process ID is 110652
+[2018.07.04-22.17.07:344][ 19]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.07.04-22.17.07:345][ 19]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.04-22.17.07:345][ 19]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.04-22.17.07:345][ 19]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.04-22.17.07:345][ 19]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.04-22.17.07:345][ 19]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.04-22.17.08:070][ 19]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.04-22.17.08:071][ 19]MapCheck: New page: Untitled_1 - 5 Jul 2018 00:17:08
+[2018.07.04-22.17.08:072][ 19]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.07.04-22.17.08:301][ 19]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 230.817ms to complete.
+[2018.07.04-22.17.08:332][ 19]LogEditorBuildUtils: Build time 2:02
+[2018.07.04-22.17.29:345][ 72]Job is a success!
+[2018.07.04-22.17.30:077][ 73]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.07.04-22.17.30:077][ 73]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.07.04-22.17.30:077][ 73]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.07.04-22.17.30:077][ 73]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.07.04-22.17.30:077][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X128)
+[2018.07.04-22.17.30:096][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.07.04-22.17.30:293][ 73]LogStaticLightingSystem: Illumination: 27.9 sec (155 ms encoding lightmaps, 69 ms encoding shadowmaps)
+[2018.07.04-22.17.30:293][ 73]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.04-22.17.30:294][ 73]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.04-22.17.30:538][ 73]DumpUnbuiltLightIteractions
+[2018.07.04-22.17.30:538][ 73]Lights with unbuilt interactions: 0
+[2018.07.04-22.17.30:538][ 73]
+[2018.07.04-22.17.30:538][ 73]Primitives with unbuilt interactions: 0
+[2018.07.04-22.17.30:554][ 74]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.04-22.17.30:554][ 74]MapCheck: New page: Untitled_1 - 5 Jul 2018 00:17:30
+[2018.07.04-22.17.30:987][ 74]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 433.343ms to complete.
+[2018.07.04-22.18.17:772][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.04-22.18.18:007][204]LogSavePackage: Save=233.11ms
+[2018.07.04-22.18.18:007][204]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Untitled_1_Auto20CCF25FF48BC48F9841770BF129597D6.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2018.07.04-22.18.18:029][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Temp/Untitled_1_Auto2.umap
+[2018.07.04-22.18.18:036][204]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.416
+[2018.07.04-22.18.18:036][204]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.416
+[2018.07.04-22.18.35:814][336]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.04-22.18.35:876][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.04-22.18.35:877][336]PIE: New page: PIE session: Untitled_1 (5 Jul 2018 00:18:35)
+[2018.07.04-22.18.35:878][336]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.04-22.18.35:909][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031063s)
+[2018.07.04-22.18.35:916][336]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.04-22.18.35:918][336]LogPlayLevel: PIE: World Init took: (0.008190s)
+[2018.07.04-22.18.35:918][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.040233s)
+[2018.07.04-22.18.35:972][336]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.04-22.18.36:019][336]LogInit: FAudioDevice initialized.
+[2018.07.04-22.18.36:062][336]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.04-22.18.36:065][336]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.07.04-23.18.36
+[2018.07.04-22.18.36:066][336]LogWorld: Bringing up level for play took: 0.002785
+[2018.07.04-22.18.36:068][336]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.04-22.18.36:068][336]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.04-22.18.36:068][336]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.04-22.18.36:072][336]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.04-22.18.36:072][336]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.209
+[2018.07.04-22.18.39:142][419]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-22.18.39:142][419]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-22.18.41:946][500]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-22.18.41:947][500]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-22.18.44:825][576]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-22.18.44:825][576]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-22.18.47:488][651]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-22.18.47:488][651]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.04-22.18.48:298][675]PIE: Warning: GAArrow_C_3.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2018.07.04-22.18.48:466][679]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:501][680]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:533][681]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:583][682]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:614][683]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:651][684]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:701][685]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:724][686]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:748][687]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:777][688]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:824][689]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:859][690]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:898][691]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:926][692]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.48:979][693]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:013][694]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:046][695]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:095][696]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:121][697]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:146][698]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:173][699]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:223][700]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:252][701]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:289][702]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:323][703]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:379][704]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:397][705]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:418][706]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:445][707]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:512][708]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:554][709]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:602][710]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.18.49:628][711]PIE: Warning: GAArrow_C_3.StaticMesh GAMainArrow has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.07.04-22.19.08:975][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map2" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.04-22.19.10:743][776]LogSavePackage: Save=135.28ms
+[2018.07.04-22.19.10:743][776]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Map28BA7024D433AEF69D63B4ABAE3B41708.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2.umap'
+[2018.07.04-22.19.10:774][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2.umap
+[2018.07.04-22.19.10:878][776]LogFileHelpers: Saving map 'Map2' took 10.923
+[2018.07.04-22.19.10:892][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map2_BuiltData" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2_BuiltData.uasset" SILENT=true
+[2018.07.04-22.19.11:086][776]LogSavePackage: Save=185.60ms
+[2018.07.04-22.19.11:087][776]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Map2_BuiltDataAA23AC68490F91C71F160F8E07390441.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2_BuiltData.uasset'
+[2018.07.04-22.19.11:093][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2_BuiltData.uasset
+[2018.07.04-22.19.11:889][776]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.04-22.19.14:654][777]Cmd: QUIT_EDITOR
+[2018.07.04-22.19.18:559][777]LogExit: Preparing to exit.
+[2018.07.04-22.19.21:809][777]LogDirectoryWatcher: A directory notification for 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/' was aborted.
+[2018.07.04-22.19.23:789][777]LogExit: Editor shut down
+[2018.07.04-22.19.23:874][777]LogExit: Transaction tracking system shut down
+[2018.07.04-22.19.25:302][777]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.04-22.19.25:302][777]LogDirectoryWatcher: A directory notification for '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/' was aborted.
+[2018.07.04-22.19.25:302][777]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.04-22.19.25:302][777]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.04-22.19.25:302][777]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.04-22.19.37:402][777]LogExit: Object subsystem successfully closed.
+[2018.07.04-22.19.38:656][777]LogD3D11RHI: Shutdown
+[2018.07.04-22.19.38:664][777]LogD3D11RHI: CleanupD3DDevice
+[2018.07.04-22.19.39:041][777]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.04-22.19.52:267][777]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2018.07.04-22.19.52:267][777]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2018.07.04-22.19.52:490][777]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (534)
+[2018.07.04-22.19.52:524][777]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2018.07.04-22.19.52:583][777]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.07.04-22.19.52:583][777]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.07.04-22.19.52:628][777]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.07.04-22.19.52:646][777]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.07.04-22.19.53:398][777]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.07.04-22.19.53:398][777]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.07.04-22.19.53:398][777]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.07.04-22.19.53:534][777]LogDirectoryWatcher: A directory notification for 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Collections/' was aborted.
+[2018.07.04-22.19.53:534][777]LogDirectoryWatcher: A directory notification for 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Developers/oaste/Collections/' was aborted.
+[2018.07.04-22.19.53:534][777]LogDirectoryWatcher: A directory notification for 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Collections/' was aborted.
+[2018.07.04-22.19.53:535][777]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.07.04-22.19.53:642][777]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.07.04-22.19.53:676][777]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.07.04-23.04.06:274][777]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.07.04-23.04.06:740][777]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.07.04-23.04.06:740][777]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.07.04-23.04.06:740][777]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.07.04-23.04.06:742][777]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.07.04-23.04.06:742][777]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.07.04-23.04.07:439][777]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.07.04-23.04.07:439][777]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.07.04-23.04.07:583][777]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.07.04-23.04.07:767][777]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.07.04-23.04.08:351][777]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.07.04-23.04.09:032][777]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.07.04-23.04.11:393][777]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.07.04-23.04.11:393][777]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.07.04-23.04.11:393][777]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.07.04-23.04.11:393][777]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.07.04-23.04.11:393][777]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.07.04-23.04.11:394][777]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.07.04-23.04.11:394][777]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.07.04-23.04.11:394][777]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.07.04-23.04.11:394][777]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.07.04-23.04.11:394][777]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.07.04-23.04.11:863][777]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.07.04-23.04.11:983][777]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.07.04-23.04.11:984][777]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.07.04-23.04.11:984][777]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.07.04-23.04.11:984][777]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.07.04-23.04.11:984][777]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.07.04-23.04.12:905][777]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.07.04-23.04.13:863][777]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.07.04-23.04.14:733][777]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.07.04-23.04.15:688][777]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.07.04-23.04.15:819][777]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.07.04-23.04.15:819][777]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.07.04-23.04.15:819][777]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.07.04-23.04.16:516][777]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.07.04-23.04.16:516][777]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.07.04-23.04.16:516][777]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.07.04-23.04.16:516][777]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.07.04-23.04.16:726][777]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.07.04-23.04.16:883][777]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.07.04-23.04.17:042][777]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.07.04-23.04.17:158][777]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.07.04-23.04.17:186][777]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.07.04-23.04.17:338][777]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.07.04-23.04.17:420][777]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.07.04-23.04.17:420][777]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.07.04-23.04.17:465][777]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.07.04-23.04.17:501][777]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.07.04-23.04.17:567][777]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.07.04-23.04.17:594][777]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.07.04-23.04.17:646][777]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.07.04-23.04.17:773][777]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.07.04-23.04.17:831][777]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.07.04-23.04.17:995][777]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.07.04-23.04.18:207][777]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.07.04-23.04.18:277][777]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.07.04-23.04.18:479][777]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.07.04-23.04.18:575][777]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.07.04-23.04.20:070][777]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.07.04-23.04.20:409][777]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.07.04-23.04.20:529][777]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.07.04-23.04.20:811][777]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.07.04-23.04.20:811][777]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.07.04-23.04.20:878][777]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.07.04-23.04.20:878][777]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.07.04-23.04.21:294][777]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.07.04-23.04.21:294][777]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.07.04-23.04.21:370][777]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.07.04-23.04.21:447][777]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.07.04-23.04.21:447][777]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.07.04-23.04.21:448][777]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.07.04-23.04.21:502][777]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.07.04-23.04.21:676][777]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.07.04-23.04.21:717][777]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.07.04-23.04.21:759][777]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.07.04-23.04.21:759][777]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.07.04-23.04.21:760][777]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.07.04-23.04.21:850][777]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.07.04-23.04.21:850][777]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.07.04-23.04.22:318][777]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.07.04-23.04.22:339][777]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.07.04-23.04.22:339][777]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.07.04-23.04.22:339][777]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.07.04-23.04.22:340][777]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.07.04-23.04.22:340][777]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.07.04-23.04.22:340][777]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.07.04-23.04.22:375][777]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.07.04-23.04.22:375][777]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.07.04-23.04.22:422][777]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.07.04-23.04.22:706][777]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.07.04-23.04.22:767][777]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.07.04-23.04.22:767][777]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.07.04-23.04.22:767][777]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.07.04-23.04.22:767][777]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.07.04-23.04.22:767][777]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.07.04-23.04.22:767][777]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.07.04-23.04.22:768][777]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.07.04-23.04.22:768][777]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.07.04-23.04.22:768][777]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.07.04-23.04.22:768][777]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.07.04-23.04.22:996][777]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.07.04-23.04.22:996][777]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.07.04-23.04.23:051][777]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.07.04-23.04.23:051][777]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.07.04-23.04.23:051][777]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.07.04-23.04.23:051][777]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.07.04-23.04.23:051][777]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.07.04-23.04.23:128][777]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.07.04-23.04.23:204][777]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.07.04-23.04.23:251][777]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.07.04-23.04.23:299][777]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.07.04-23.04.23:299][777]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.07.04-23.04.23:608][777]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.07.04-23.04.23:729][777]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.07.04-23.04.23:949][777]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.07.04-23.04.24:024][777]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.07.04-23.04.24:024][777]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.07.04-23.04.24:025][777]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.07.04-23.04.24:025][777]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.07.04-23.04.24:154][777]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.07.04-23.04.24:282][777]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.07.04-23.04.24:345][777]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.07.04-23.04.24:507][777]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.07.04-23.04.24:553][777]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.07.04-23.04.24:656][777]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.07.04-23.04.24:656][777]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.07.04-23.04.24:675][777]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.07.04-23.04.24:675][777]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.07.04-23.04.24:675][777]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.07.04-23.04.24:675][777]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.07.04-23.04.24:675][777]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.07.04-23.04.24:675][777]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.07.04-23.04.24:815][777]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.07.04-23.04.25:521][777]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.07.04-23.04.25:621][777]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.07.04-23.04.25:643][777]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.07.04-23.04.25:644][777]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.07.04-23.04.25:778][777]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.07.04-23.04.25:779][777]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.07.04-23.04.25:812][777]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.07.04-23.04.25:813][777]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.07.04-23.04.25:813][777]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.07.04-23.04.25:825][777]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.07.04-23.04.25:842][777]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.07.04-23.04.25:842][777]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.07.04-23.04.25:857][777]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.07.04-23.04.25:939][777]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.07.04-23.04.25:939][777]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.07.04-23.04.25:940][777]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.07.04-23.04.25:940][777]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.07.04-23.04.25:996][777]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.07.04-23.04.26:030][777]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.07.04-23.04.26:030][777]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.07.04-23.04.26:167][777]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.07.04-23.04.26:175][777]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.07.04-23.04.26:228][777]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.07.04-23.04.26:457][777]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.07.04-23.04.26:567][777]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.07.04-23.04.26:649][777]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.07.04-23.04.26:673][777]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.07.04-23.04.26:673][777]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.07.04-23.04.26:714][777]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.07.04-23.04.26:714][777]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.07.04-23.04.26:749][777]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.07.04-23.04.26:749][777]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.07.04-23.04.26:749][777]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.07.04-23.04.26:749][777]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.07.04-23.04.26:749][777]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.07.04-23.04.26:749][777]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.07.04-23.04.26:749][777]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.07.04-23.04.26:749][777]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.07.04-23.04.26:749][777]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.07.04-23.04.26:794][777]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.07.04-23.04.26:806][777]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.07.04-23.04.26:807][777]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.07.04-23.04.26:816][777]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.07.04-23.04.26:816][777]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.07.04-23.04.26:839][777]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.07.04-23.04.26:846][777]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.07.04-23.04.26:857][777]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.07.04-23.04.26:862][777]LogDerivedDataCache: Shutdown
+[2018.07.04-23.04.26:862][777]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.07.04-23.04.26:917][777]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.07.04-23.04.26:962][777]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.07.04-23.04.26:993][777]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.07.04-23.04.27:027][777]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.07.04-23.04.27:043][777]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.07.04-23.04.27:085][777]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.07.04-23.04.27:085][777]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.07.04-23.04.27:085][777]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.07.04-23.04.27:085][777]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.07.04-23.04.27:129][777]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.07.04-23.04.27:129][777]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.07.04-23.04.27:129][777]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.07.04-23.04.27:129][777]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.07.04-23.04.27:130][777]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.07.04-23.04.27:130][777]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.07.04-23.04.27:130][777]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.07.04-23.04.27:130][777]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.07.04-23.04.27:130][777]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.07.04-23.04.27:130][777]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.07.04-23.04.27:130][777]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.07.04-23.04.27:130][777]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.07.04-23.04.27:155][777]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.07.04-23.04.27:155][777]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.07.04-23.04.27:155][777]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.07.04-23.04.27:155][777]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.07.04-23.04.27:160][777]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.07.04-23.04.27:161][777]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.07.04-23.04.27:170][777]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.07.04-23.04.27:170][777]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.07.04-23.04.27:171][777]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.07.04-23.04.27:171][777]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.07.04-23.04.27:171][777]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.07.04-23.04.27:171][777]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.07.04-23.04.27:171][777]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.07.04-23.04.27:171][777]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.07.04-23.04.27:189][777]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.07.04-23.04.27:189][777]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.04-23.04.27:189][777]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.04-23.04.27:189][777]LogOnline: Display: Unloading online subsystem: NULL
+[2018.07.04-23.04.27:223][777]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.04-23.04.27:251][777]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.04-23.04.27:251][777]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.04-23.04.27:259][777]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2C8D2CFB-4709-9FB3-85CD-91909D58D632%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=543d467c4424f055ada612a4e4a7973a%7Cbc011444d2864bdf9695488c55616eb7%7Cfc0836ed-f7bc-4f31-a175-fafc700928d7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.04-23.04.27:330][777]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.04-23.04.27:387][777]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.04-23.04.27:404][777]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.04-23.04.27:565][777]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.04-23.04.27:596][777]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.04-23.04.27:596][777]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.04-23.04.27:596][777]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.04-23.04.27:596][777]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.04-23.04.27:837][777]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.04-23.04.27:852][777]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.04-23.04.27:853][777]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.04-23.04.27:862][777]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.04-23.04.27:862][777]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.04-23.04.27:863][777]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.04-23.04.27:863][777]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.04-23.04.27:888][777]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.04-23.04.27:888][777]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.04-23.04.27:921][777]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.04-23.04.27:964][777]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.04-23.04.28:101][777]LogExit: Exiting.
+[2018.07.04-23.04.28:221][777]Log file closed, 07/05/18 00:04:28

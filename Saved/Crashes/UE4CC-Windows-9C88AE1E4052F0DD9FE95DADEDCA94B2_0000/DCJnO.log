@@ -1,0 +1,1151 @@
+﻿Log file open, 07/05/18 22:20:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DCJnO
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1807325032) SRandInit(-1807325032).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.233879
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.05-21.20.51:103][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.05-21.20.51:103][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.05-21.20.51:176][  0]LogInit: Computer: STARLORD
+[2018.07.05-21.20.51:176][  0]LogInit: User: oaste
+[2018.07.05-21.20.51:176][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.05-21.20.51:176][  0]LogInit: High frequency timer resolution =2.240911 MHz
+[2018.07.05-21.20.51:176][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.07.05-21.20.51:176][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.05-21.20.51:176][  0]LogMemory: Process Physical Memory: 277.36 MB used, 277.36 MB peak
+[2018.07.05-21.20.51:176][  0]LogMemory: Process Virtual Memory: 277.16 MB used, 277.16 MB peak
+[2018.07.05-21.20.51:176][  0]LogMemory: Physical Memory: 5926.92 MB used,  2035.23 MB free, 7962.15 MB total
+[2018.07.05-21.20.51:177][  0]LogMemory: Virtual Memory: 4792.99 MB used,  2035.23 MB free, 134217728.00 MB total
+[2018.07.05-21.20.51:770][  0]LogInit: Using OS detected language (en-GB).
+[2018.07.05-21.20.51:770][  0]LogInit: Using OS detected locale (en-GB).
+[2018.07.05-21.20.51:777][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.07.05-21.20.53:318][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.05-21.20.53:417][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2018.07.05-21.20.53:417][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.07.05-21.20.53:421][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.05-21.20.53:421][  0]LogD3D11RHI:       0/0/3981 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.05-21.20.53:421][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.05-21.20.53:448][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.05-21.20.53:448][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.05-21.20.53:448][  0]LogWindows: EnumDisplayDevices:
+[2018.07.05-21.20.53:448][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2018.07.05-21.20.53:449][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.07.05-21.20.53:449][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.07.05-21.20.53:450][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.05-21.20.53:450][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2018.07.05-21.20.53:450][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.05-21.20.53:450][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.05-21.20.53:450][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2018.07.05-21.20.53:469][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.05-21.20.53:529][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.07.05-21.20.53:531][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Intermediate/Shaders/WorkingDirectory/123120/).
+[2018.07.05-21.20.53:532][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/oaste/AppData/Local/Temp/UnrealShaderWorkingDir/DE49334440D436C37ADA1E9372B4CEA1/'.
+[2018.07.05-21.20.53:532][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.05-21.20.55:941][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.05-21.20.56:082][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.05-21.20.56:229][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.05-21.20.56:372][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.05-21.20.56:538][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.05-21.20.56:709][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.05-21.20.56:854][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.05-21.20.57:001][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.05-21.20.57:155][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.05-21.20.57:305][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.05-21.20.57:447][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.05-21.20.57:595][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.05-21.20.57:767][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.05-21.20.57:906][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.05-21.20.58:072][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.05-21.20.58:391][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.05-21.20.58:392][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.05-21.20.58:545][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.05-21.20.58:772][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.05-21.20.58:852][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.05-21.20.58:997][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.05-21.20.59:153][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.05-21.20.59:391][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.05-21.20.59:561][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.05-21.20.59:561][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.05-21.21.01:435][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.05-21.21.01:669][  0]LogDerivedDataCache: Loaded boot cache 0.23s 93MB C:/Users/oaste/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.05-21.21.01:669][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/oaste/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.07.05-21.21.01:669][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.05-21.21.01:669][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.05-21.21.01:669][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.05-21.21.01:669][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.05-21.21.01:743][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.05-21.21.01:757][  0]LogDerivedDataCache: Using Local data cache path C:/Users/oaste/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.05-21.21.01:780][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.05-21.21.01:781][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.05-21.21.01:782][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.05-21.21.01:782][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.05-21.21.02:492][  0]LogAssetRegistry: FAssetRegistry took 0.0357 seconds to start up
+[2018.07.05-21.21.02:872][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.05-21.21.03:230][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.07.05-21.21.04:265][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.05-21.21.04:423][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.05-21.21.04:423][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.05-21.21.04:423][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.05-21.21.04:423][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.05-21.21.04:423][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.05-21.21.05:251][  0]LogNetVersion: DCJnO , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2143308826)
+[2018.07.05-21.21.05:833][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.105986 seconds
+[2018.07.05-21.21.05:849][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.07.05-21.21.05:849][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.07.05-21.21.05:849][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.05-21.21.06:078][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.05-21.21.13:267][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.05-21.21.13:359][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.05-21.21.15:145][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.05-21.21.16:402][  0]SourceControl: Source control is disabled
+[2018.07.05-21.21.16:402][  0]SourceControl: Source control is disabled
+[2018.07.05-21.21.16:538][  0]SourceControl: Source control is disabled
+[2018.07.05-21.21.16:712][  0]SourceControl: Source control is disabled
+[2018.07.05-21.21.18:351][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.05-21.21.19:115][  0]LogOcInput: OculusInput pre-init called
+[2018.07.05-21.21.19:887][  0]LogEngine: Initializing Engine...
+[2018.07.05-21.21.19:891][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.05-21.21.20:314][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.05-21.21.20:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.05-21.21.20:624][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.05-21.21.20:643][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.05-21.21.20:846][  0]LogInit: FAudioDevice initialized.
+[2018.07.05-21.21.21:193][  0]LogDerivedDataCache: Saved boot cache 0.35s 93MB C:/Users/oaste/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.05-21.21.21:219][  0]LogInit: Texture streaming: Enabled
+[2018.07.05-21.21.21:520][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.05-21.21.22:322][  0]LogInit: Transaction tracking system initialized
+[2018.07.05-21.21.23:421][  0]BlueprintLog: New page: Editor Load
+[2018.07.05-21.21.26:271][  0]LocalizationService: Localization service is disabled
+[2018.07.05-21.21.28:670][  0]LogConsoleResponse: Display: 
+[2018.07.05-21.21.29:331][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.05-21.21.29:331][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.05-21.21.29:331][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.05-21.21.29:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/' took 0.09s
+[2018.07.05-21.21.33:286][  0]SourceControl: Source control is disabled
+[2018.07.05-21.21.33:286][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.05-21.21.33:287][  0]LightingResults: New page: Lighting Build
+[2018.07.05-21.21.33:447][  0]MapCheck: New page: Map Check
+[2018.07.05-21.21.33:447][  0]LightingResults: New page: Lighting Build
+[2018.07.05-21.21.34:223][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.05-21.21.34:235][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.05-21.21.34:354][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.05-21.21.34:527][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 173.175ms to complete.
+[2018.07.05-21.21.34:527][  0]LogFileHelpers: Loading map 'Template_Default' took 1.241
+[2018.07.05-21.21.34:890][  0]LogCollectionManager: Loaded 0 collections in 0.004528 seconds
+[2018.07.05-21.21.35:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Collections/' took 0.01s
+[2018.07.05-21.21.35:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Developers/oaste/Collections/' took 0.01s
+[2018.07.05-21.21.35:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Collections/' took 0.01s
+[2018.07.05-21.21.35:119][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.05-21.21.35:141][  0]LogContentBrowser: Native class hierarchy populated in 0.0213 seconds. Added 2386 classes and 500 folders.
+[2018.07.05-21.21.35:339][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2018.07.05-21.21.37:044][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.07.05-21.21.37:228][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.07.05-21.21.37:271][  0]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.05-21.21.37:275][  0]LogSlate: Took 0.000930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.05-21.21.37:351][  0]LogSlate: Took 0.066025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.05-21.21.37:699][  0]LogRenderer: Reallocating scene render targets to support 780x344 Format 10 NumSamples 1 (Frame:1).
+[2018.07.05-21.21.39:350][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2018.07.05-21.21.39:351][  0]LogLoad: (Engine Initialization) Total time: 52.27 seconds
+[2018.07.05-21.21.39:351][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.05-21.21.39:352][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.07.05-21.21.39:739][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.05-21.21.40:371][  2]LogAssetRegistry: Asset discovery search completed in 37.9020 seconds
+[2018.07.05-21.21.40:375][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.05-21.21.40:375][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.07.05-21.21.43:867][ 27]LogSlate: Took 0.000721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.05-21.22.18:890][140]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.05-21.22.19:064][140]LogAIModule: Creating AISystem for world Map2
+[2018.07.05-21.22.19:098][140]Cmd: MAP LOAD FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.05-21.22.19:099][140]LightingResults: New page: Lighting Build
+[2018.07.05-21.22.19:099][140]LoadErrors: New page: Loading map: Map2.umap
+[2018.07.05-21.22.19:100][140]MapCheck: New page: Map Check
+[2018.07.05-21.22.19:100][140]LightingResults: New page: Lighting Build
+[2018.07.05-21.22.19:129][140]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.05-21.22.19:208][140]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.05-21.22.19:331][140]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.445ms to complete.
+[2018.07.05-21.22.19:332][140]LogFileHelpers: Loading map 'Map2' took 0.235
+[2018.07.05-21.22.22:612][251]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.05-21.22.22:682][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.05-21.22.22:682][251]PIE: New page: PIE session: Map2 (5 Jul 2018 23:22:22)
+[2018.07.05-21.22.22:682][251]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.05-21.22.22:685][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002800s)
+[2018.07.05-21.22.22:686][251]LogAIModule: Creating AISystem for world Map2
+[2018.07.05-21.22.22:687][251]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2018.07.05-21.22.22:687][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.004447s)
+[2018.07.05-21.22.22:725][251]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.05-21.22.22:807][251]LogInit: FAudioDevice initialized.
+[2018.07.05-21.22.23:274][251]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.05-21.22.23:277][251]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.05-22.22.23
+[2018.07.05-21.22.23:278][251]LogWorld: Bringing up level for play took: 0.001906
+[2018.07.05-21.22.23:383][251]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 11 classes and 0 folders.
+[2018.07.05-21.22.23:384][251]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-21.22.23:384][251]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-21.22.23:384][251]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-21.22.23:391][251]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-21.22.23:391][251]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 0.266
+[2018.07.05-21.22.27:493][381]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.22.27:493][381]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.22.29:141][436]PIE: Warning: GAArrow_C_0.Box has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddImpulse. 
+[2018.07.05-21.30.03:732][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.05-21.30.13:196][200]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.05-21.30.13:294][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.05-21.30.13:295][200]PIE: New page: PIE session: Map2 (5 Jul 2018 23:30:13)
+[2018.07.05-21.30.13:295][200]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.05-21.30.13:298][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003502s)
+[2018.07.05-21.30.13:300][200]LogAIModule: Creating AISystem for world Map2
+[2018.07.05-21.30.13:300][200]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2018.07.05-21.30.13:300][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.005281s)
+[2018.07.05-21.30.13:354][200]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.05-21.30.13:393][200]LogInit: FAudioDevice initialized.
+[2018.07.05-21.30.13:433][200]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.05-21.30.13:436][200]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.05-22.30.13
+[2018.07.05-21.30.13:436][200]LogWorld: Bringing up level for play took: 0.002059
+[2018.07.05-21.30.13:437][200]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-21.30.13:438][200]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-21.30.13:438][200]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-21.30.13:440][200]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-21.30.13:440][200]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 0.315
+[2018.07.05-21.30.16:068][285]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.30.16:068][285]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.30.29:587][689]MapCheck: New page: Map Check
+[2018.07.05-21.30.29:672][689]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.05-21.30.29:676][689]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.05-21.30.29:909][689]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.05-21.30.29:944][689]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.05-21.30.29:954][689]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.07.05-21.30.35:071][689]TextureStreamingBuild: Display: Compiling optional shaders took 5.183 seconds.
+[2018.07.05-21.30.35:158][689]LogLevel: Display: Export Material TexCoord Scales took 0.088 seconds.
+[2018.07.05-21.30.35:199][689]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2018.07.05-21.30.35:277][689]LightingResults: New page: Lighting Build - 5 Jul 2018 23:30:35
+[2018.07.05-21.30.36:028][689]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.05-21.30.36:654][689]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.05-21.30.39:160][689]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.05-21.30.40:512][689]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.05-21.30.40:512][689]LogSwarmInterface: [TryOpenConnection] Local Process ID is 123120
+[2018.07.05-21.30.47:414][689]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.07.05-21.30.47:473][689]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.05-21.30.47:473][689]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.05-21.30.47:473][689]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.05-21.30.47:473][689]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.05-21.30.47:473][689]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.05-21.30.48:881][689]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.05-21.30.48:881][689]MapCheck: New page: Map2 - 5 Jul 2018 23:30:48
+[2018.07.05-21.30.48:899][689]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.07.05-21.30.49:039][689]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 158.133ms to complete.
+[2018.07.05-21.30.49:063][689]LogEditorBuildUtils: Build time 0:19
+[2018.07.05-21.31.24:627][492]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.07.05-21.31.24:776][492]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.07.05-21.31.24:917][492]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.07.05-21.31.25:032][492]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.07.05-21.31.25:266][492]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.07.05-21.31.25:664][492]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.07.05-21.31.25:776][492]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.07.05-21.31.25:865][492]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.07.05-21.31.25:953][492]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.07.05-21.31.26:090][492]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.07.05-21.31.26:181][492]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.07.05-21.31.26:281][492]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.07.05-21.31.26:424][492]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.07.05-21.32.45:882][ 17]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.07.05-21.32.47:656][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.05-21.34.09:955][476]LogSlate: Took 0.000527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.05-21.34.11:636][476]LogRenderer: Reallocating scene render targets to support 1016x612 Format 10 NumSamples 1 (Frame:1).
+[2018.07.05-21.35.15:966][ 51]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.05-21.36.11:426][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GreenArrow/bow2" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/GreenArrow/bow2.uasset" SILENT=true
+[2018.07.05-21.36.11:870][253]LogSavePackage: Save=88.79ms
+[2018.07.05-21.36.11:870][253]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/bow2C900BFEF4085CD26816F0B9AF22A74FB.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/GreenArrow/bow2.uasset'
+[2018.07.05-21.36.11:901][253]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/GreenArrow/bow2.uasset
+[2018.07.05-21.36.57:304][649]MapCheck: New page: Map Check
+[2018.07.05-21.36.57:334][649]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.05-21.36.57:334][649]MapCheck: New page: Map2 - 5 Jul 2018 23:36:57
+[2018.07.05-21.36.57:341][649]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.07.05-21.36.57:534][649]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 199.884ms to complete.
+[2018.07.05-21.36.57:558][649]LogEditorBuildUtils: Build time 0:00
+[2018.07.05-21.37.02:501][716]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2018.07.05-21.37.04:212][716]Job has failed! Job is closed while Tasks are still RUNNING
+[2018.07.05-21.37.04:316][716]DumpUnbuiltLightIteractions
+[2018.07.05-21.37.04:316][716]Lights with unbuilt interactions: 1
+[2018.07.05-21.37.04:316][716]    Light LightSource
+[2018.07.05-21.37.04:316][716]
+[2018.07.05-21.37.04:317][716]Primitives with unbuilt interactions: 1
+[2018.07.05-21.37.04:317][716]    Primitive StaticMeshComponent /Game/Map2.Map2:PersistentLevel.Cube_2.StaticMeshComponent0
+[2018.07.05-21.37.04:389][717]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.05-21.37.04:390][717]MapCheck: New page: Map2 - 5 Jul 2018 23:37:04
+[2018.07.05-21.37.04:457][717]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.07.05-21.37.04:939][717]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 548.948ms to complete.
+[2018.07.05-21.37.26:244][871]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.05-21.37.26:330][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.05-21.37.26:331][871]PIE: New page: PIE session: Map2 (5 Jul 2018 23:37:26)
+[2018.07.05-21.37.26:331][871]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.05-21.37.26:334][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003391s)
+[2018.07.05-21.37.26:335][871]LogAIModule: Creating AISystem for world Map2
+[2018.07.05-21.37.26:336][871]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2018.07.05-21.37.26:336][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.005219s)
+[2018.07.05-21.37.26:394][871]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.05-21.37.26:572][871]LogInit: FAudioDevice initialized.
+[2018.07.05-21.37.26:610][871]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.05-21.37.26:612][871]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.05-22.37.26
+[2018.07.05-21.37.26:613][871]LogWorld: Bringing up level for play took: 0.002326
+[2018.07.05-21.37.26:614][871]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-21.37.26:614][871]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-21.37.26:614][871]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-21.37.26:617][871]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-21.37.26:617][871]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 -0.508
+[2018.07.05-21.37.29:869][957]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.37.29:870][957]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.37.32:398][ 24]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.37.32:398][ 24]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.37.34:057][ 66]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.37.34:058][ 66]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.37.45:773][323]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.05-21.37.45:862][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.05-21.37.45:862][323]PIE: New page: PIE session: Map2 (5 Jul 2018 23:37:45)
+[2018.07.05-21.37.45:862][323]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.05-21.37.45:865][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003356s)
+[2018.07.05-21.37.45:866][323]LogAIModule: Creating AISystem for world Map2
+[2018.07.05-21.37.45:867][323]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2018.07.05-21.37.45:867][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.005058s)
+[2018.07.05-21.37.45:925][323]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.05-21.37.45:992][323]LogInit: FAudioDevice initialized.
+[2018.07.05-21.37.46:032][323]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.05-21.37.46:034][323]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.05-22.37.46
+[2018.07.05-21.37.46:035][323]LogWorld: Bringing up level for play took: 0.002191
+[2018.07.05-21.37.46:036][323]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-21.37.46:036][323]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-21.37.46:036][323]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-21.37.46:039][323]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-21.37.46:039][323]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 0.914
+[2018.07.05-21.37.47:973][373]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.37.47:974][373]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-21.38.05:226][610]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 113 classes and 0 folders.
+[2018.07.05-21.38.09:089][610]LogSlate: Took 0.028657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.05-21.38.10:032][611]LogSlate: Took 0.028919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.05-21.42.33:774][482]BlueprintLog: New page: Compile GreenArrowCharacter
+[2018.07.05-21.42.38:438][542]MapCheck: New page: Map Check
+[2018.07.05-21.42.38:463][542]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.05-21.42.38:463][542]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.05-21.55.23:451][542]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.05-21.55.27:566][542]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.05-21.55.27:837][542]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2018.07.05-21.55.53:561][542]TextureStreamingBuild: Display: Compiling optional shaders took 32.709 seconds.
+[2018.07.05-21.55.55:664][542]LogLevel: Display: Export Material TexCoord Scales took 2.028 seconds.
+[2018.07.05-21.55.57:039][542]TextureStreamingBuild: Display: Build Texture Streaming took 1.296 seconds.
+[2018.07.05-21.56.02:337][542]LogEditorBuildUtils: Build time 13:23
+[2018.07.05-21.56.32:216][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map2" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.05-21.56.36:878][543]LogSavePackage: Save=2401.15ms
+[2018.07.05-21.56.36:891][543]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Map2_Auto1548AAEAD491CB31CB73A81B7A04850D0.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_Auto1.umap'
+[2018.07.05-21.56.37:014][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_Auto1.umap
+[2018.07.05-21.56.37:491][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map2' took 7.153
+[2018.07.05-21.56.37:491][543]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.153
+[2018.07.05-21.56.38:525][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GreenArrow/GreenArrowCharacter] ([1] browsable assets)...
+[2018.07.05-21.56.44:192][543]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GreenArrow/GreenArrowCharacter.GreenArrowCharacter]
+[2018.07.05-21.56.44:192][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/GreenArrow/GreenArrowCharacter]
+[2018.07.05-21.56.49:352][543]LogSavePackage: Save=4807.39ms
+[2018.07.05-21.56.49:355][543]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/GreenArrowCharacter_Auto1E0ADD6DD45B0D9CE29AA14947C9D468E.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/GreenArrow/GreenArrowCharacter_Auto1.uasset'
+[2018.07.05-21.56.49:397][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/GreenArrow/GreenArrowCharacter_Auto1.uasset
+[2018.07.05-21.56.49:434][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GreenArrow/bow2] ([1] browsable assets)...
+[2018.07.05-21.56.49:434][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/GreenArrow/bow2]
+[2018.07.05-21.56.49:434][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GreenArrow/bow2" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/GreenArrow/bow2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.07.05-21.56.50:424][543]LogSavePackage: Save=417.45ms
+[2018.07.05-21.56.50:427][543]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/bow2_Auto1511994E447FCAD2CAAF49788EDAAD09A.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/GreenArrow/bow2_Auto1.uasset'
+[2018.07.05-21.56.50:434][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/GreenArrow/bow2_Auto1.uasset
+[2018.07.05-21.56.50:435][543]LogFileHelpers: Auto-saving content packages took 12.866
+[2018.07.05-21.57.48:710][714]MapCheck: New page: Map Check
+[2018.07.05-21.57.49:194][714]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.05-21.57.49:228][714]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.05-21.57.54:830][714]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.05-21.57.54:845][714]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.05-21.57.54:855][714]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2018.07.05-21.58.04:953][714]TextureStreamingBuild: Display: Compiling optional shaders took 10.161 seconds.
+[2018.07.05-21.58.05:184][714]LogLevel: Display: Export Material TexCoord Scales took 0.231 seconds.
+[2018.07.05-21.58.05:195][714]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2018.07.05-21.58.07:411][714]LightingResults: New page: Lighting Build - 5 Jul 2018 23:58:05
+[2018.07.05-21.58.09:643][714]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.05-21.58.09:977][714]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.05-21.58.10:812][714]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.05-21.58.11:585][714]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.05-21.58.11:585][714]LogSwarmInterface: [TryOpenConnection] Local Process ID is 123120
+[2018.07.05-21.58.17:994][714]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.07.05-21.58.18:405][714]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.05-21.58.18:405][714]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.05-21.58.18:405][714]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.05-21.58.18:405][714]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.05-21.58.18:405][714]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.05-21.58.21:422][714]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.05-21.58.21:436][714]MapCheck: New page: Map2 - 5 Jul 2018 23:58:21
+[2018.07.05-21.58.21:605][714]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.07.05-21.58.38:663][714]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 17,167.589ms to complete.
+[2018.07.05-21.58.38:704][714]LogEditorBuildUtils: Build time 0:49
+[2018.07.05-22.01.15:344][748]Job is a success!
+[2018.07.05-22.01.18:953][749]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.07.05-22.01.18:953][749]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.07.05-22.01.18:953][749]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.07.05-22.01.18:953][749]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.07.05-22.01.19:760][749]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2018.07.05-22.01.19:760][749]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.07.05-22.01.21:049][749]Lightmass on STARLORD: 2:27 min total, 21.0 sec importing, 91 ms setup, 1:19 min photons, 44.9 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 2:59 min total, 53.6 sec processing.
+[2018.07.05-22.01.21:345][749]LogStaticLightingSystem: Illumination: 3:15 min (1.57 sec encoding lightmaps, 762 ms encoding shadowmaps)
+[2018.07.05-22.01.21:345][749]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.05-22.01.21:345][749]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.05-22.01.21:907][749]DumpUnbuiltLightIteractions
+[2018.07.05-22.01.21:907][749]Lights with unbuilt interactions: 0
+[2018.07.05-22.01.21:907][749]
+[2018.07.05-22.01.21:907][749]Primitives with unbuilt interactions: 0
+[2018.07.05-22.01.22:001][750]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.05-22.01.22:001][750]MapCheck: New page: Map2 - 6 Jul 2018 00:01:22
+[2018.07.05-22.01.22:177][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 176.875ms to complete.
+[2018.07.05-22.03.32:980][983]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.05-22.03.33:702][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.05-22.03.33:776][983]PIE: New page: PIE session: Map2 (6 Jul 2018 00:03:33)
+[2018.07.05-22.03.33:820][983]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.05-22.03.34:731][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.888802s)
+[2018.07.05-22.03.35:554][983]LogAIModule: Creating AISystem for world Map2
+[2018.07.05-22.03.35:827][983]LogPlayLevel: PIE: World Init took: (1.070278s)
+[2018.07.05-22.03.35:868][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (2.047718s)
+[2018.07.05-22.03.37:709][983]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.05-22.03.38:344][983]LogInit: FAudioDevice initialized.
+[2018.07.05-22.03.38:834][983]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.05-22.03.39:069][983]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.05-23.03.39
+[2018.07.05-22.03.39:142][983]LogWorld: Bringing up level for play took: 0.094359
+[2018.07.05-22.03.39:918][983]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-22.03.39:918][983]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-22.03.39:918][983]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-22.03.40:936][983]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-22.03.40:989][983]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 7.849
+[2018.07.05-22.07.34:373][683]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.07.34:374][683]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.07.35:888][723]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.07.35:889][723]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.07.38:137][787]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.07.38:137][787]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.07.42:933][922]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.07.42:933][922]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.07.44:973][978]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.07.44:973][978]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_4.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.11.23:706][307]LogVSAccessor: Warning: Couldn't open file 'C:/Program Files/Epic Games/UE_4.17/Engine/Source/Runtime/Engine/Classes/Components/SkeletalMeshComponent.h'.
+[2018.07.05-22.11.23:707][307]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.07.05-22.11.23:821][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:822][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:824][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:826][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:827][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:829][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:831][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:832][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:834][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:836][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:838][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:839][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:841][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:843][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:844][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:846][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:848][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:849][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:851][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:853][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:854][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:856][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:858][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:859][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:861][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:863][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:865][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:868][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:869][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:871][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:873][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:874][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:876][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:878][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:879][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:881][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:883][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:884][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:886][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:888][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:890][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:892][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:893][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:895][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:897][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:898][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:900][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:903][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:905][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:907][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:908][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:910][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:912][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:914][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:915][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:917][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:919][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:921][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:922][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:924][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:926][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:928][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:929][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:931][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:933][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:935][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:936][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:938][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:939][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:940][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:942][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:944][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:945][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:947][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:949][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:950][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:952][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:954][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:955][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:957][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:959][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:961][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:962][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:964][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:966][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:967][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:969][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:971][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:972][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:974][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:976][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:977][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:980][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:981][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:983][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:985][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:987][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:989][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:991][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:992][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:994][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:996][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:998][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.23:999][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:001][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:003][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:005][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:006][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:008][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:010][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:011][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:013][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:015][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:017][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:021][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:027][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:035][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:040][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:042][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:044][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:045][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:060][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:065][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:641][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.24:643][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.25:041][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.25:063][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.25:114][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.25:117][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.25:119][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.25:121][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.11.25:123][307]LogVSAccessor: Warning: Couldn't access module table
+[2018.07.05-22.12.34:263][908]LogContentBrowser: Native class hierarchy updated for 'PhAT' in 0.0594 seconds. Added 2 classes and 3 folders.
+[2018.07.05-22.12.46:253][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map2" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.05-22.12.46:375][951]LogSavePackage: Save=58.78ms
+[2018.07.05-22.12.46:375][951]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Map2_Auto2CFBA872A4ACBF7CCB7DBAA8D55BDF447.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_Auto2.umap'
+[2018.07.05-22.12.46:378][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_Auto2.umap
+[2018.07.05-22.12.46:382][951]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map2' took 0.177
+[2018.07.05-22.12.46:382][951]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.177
+[2018.07.05-22.12.46:402][951]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map2_BuiltData] ([1] browsable assets)...
+[2018.07.05-22.12.46:402][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map2_BuiltData]
+[2018.07.05-22.12.46:402][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map2_BuiltData" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_BuiltData_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.07.05-22.12.47:021][951]LogSavePackage: Save=294.84ms
+[2018.07.05-22.12.47:021][951]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Map2_BuiltData_Auto2DC1EC42F42333DB1D6CBC2BA1BCA8968.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_BuiltData_Auto2.uasset'
+[2018.07.05-22.12.47:023][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_BuiltData_Auto2.uasset
+[2018.07.05-22.12.47:023][951]LogFileHelpers: Auto-saving content packages took 0.640
+[2018.07.05-22.14.45:065][603]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2018.07.05-22.14.46:051][603]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.05-22.14.46:859][603]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.05-22.14.48:414][603]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0219 seconds. Added 1 classes and 0 folders.
+[2018.07.05-22.15.01:514][802]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.05-22.15.01:571][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.05-22.15.01:572][802]PIE: New page: PIE session: Map2 (6 Jul 2018 00:15:01)
+[2018.07.05-22.15.01:572][802]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.05-22.15.01:576][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003712s)
+[2018.07.05-22.15.01:577][802]LogAIModule: Creating AISystem for world Map2
+[2018.07.05-22.15.01:577][802]LogPlayLevel: PIE: World Init took: (0.001482s)
+[2018.07.05-22.15.01:578][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.005785s)
+[2018.07.05-22.15.01:649][802]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.05-22.15.01:715][802]LogInit: FAudioDevice initialized.
+[2018.07.05-22.15.01:768][802]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.05-22.15.01:771][802]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.05-23.15.01
+[2018.07.05-22.15.01:771][802]LogWorld: Bringing up level for play took: 0.002331
+[2018.07.05-22.15.01:773][802]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-22.15.01:773][802]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-22.15.01:773][802]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-22.15.01:776][802]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-22.15.01:776][802]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 0.651
+[2018.07.05-22.15.03:621][854]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.15.03:622][854]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_0.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.15.05:764][916]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.15.05:764][916]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_1.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.15.07:894][978]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.15.07:895][978]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_2.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.15.10:055][ 42]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.15.10:055][ 42]PIE: Warning: Invalid Simulate Options: Body (GAArrow_C_3.Box) is set to simulate physics but Collision Enabled is incompatible
+[2018.07.05-22.21.26:037][543]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/FP_FirstPersonBP.upack)
+[2018.07.05-22.21.26:641][543]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.07.05-22.21.26:713][543]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/FirstPersonOverview.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset"
+[2018.07.05-22.21.26:758][543]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset"
+[2018.07.05-22.21.26:770][543]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset"
+[2018.07.05-22.21.26:789][543]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset"
+[2018.07.05-22.21.27:179][543]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap"
+[2018.07.05-22.21.29:291][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/FirstPersonOverview" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset" SILENT=true
+[2018.07.05-22.21.29:549][543]LogSavePackage: Save=215.05ms
+[2018.07.05-22.21.29:549][543]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/FirstPersonOverview412A0E1A4F29EEAE26B401AF330E0224.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset'
+[2018.07.05-22.21.29:573][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset
+[2018.07.05-22.22.13:323][623]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/FP_FirstPersonBP.upack)
+[2018.07.05-22.22.13:332][623]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.07.05-22.22.13:333][623]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/FirstPersonOverview.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset"
+[2018.07.05-22.22.13:335][623]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset"
+[2018.07.05-22.22.13:338][623]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset"
+[2018.07.05-22.22.13:340][623]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset"
+[2018.07.05-22.22.13:388][623]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap"
+[2018.07.05-22.22.13:415][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/FirstPersonOverview" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset" SILENT=true
+[2018.07.05-22.22.13:465][623]LogSavePackage: Save=20.23ms
+[2018.07.05-22.22.13:465][623]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/FirstPersonOverviewB391F76744EAEEF091557596DE4FE53D.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset'
+[2018.07.05-22.22.13:470][623]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset
+[2018.07.05-22.24.29:864][601]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.07.05-22.24.54:762][914]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map2' took 0.087
+[2018.07.05-22.24.54:780][914]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.07.05-22.24.54:844][914]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.07.05-22.24.54:845][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.07.05-22.24.55:352][914]LogSavePackage: Save=445.21ms
+[2018.07.05-22.24.55:353][914]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/FirstPersonCharacter_Auto328A2E21946414A23830C32A7DC415425.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2018.07.05-22.24.55:355][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset
+[2018.07.05-22.24.55:355][914]LogFileHelpers: Auto-saving content packages took 0.592
+[2018.07.05-22.28.18:606][ 75]Cmd: CAMERA ALIGN
+[2018.07.05-22.28.47:569][885]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.07.05-22.28.48:096][886]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.07.05-22.28.48:383][888]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.07.05-22.28.48:561][889]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.07.05-22.28.53:935][948]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.05-22.29.50:802][909]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.07.05-22.29.51:054][910]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.07.05-22.29.51:378][911]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.07.05-22.29.52:420][920]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2018.07.05-22.29.56:661][956]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.07.05-22.29.57:170][956]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.07.05-22.30.00:346][956]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.05-22.30.05:448][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.Actor_4.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.05-22.30.08:536][999]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.Actor_4.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.07.05-22.30.10:668][999]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.05-22.31.45:142][200]BlueprintLog: New page: Compile DCGamemode
+[2018.07.05-22.31.55:306][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DCGamemode" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Blueprints/DCGamemode.uasset" SILENT=true
+[2018.07.05-22.31.55:441][349]LogSavePackage: Save=50.64ms
+[2018.07.05-22.31.55:441][349]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/DCGamemode1CF052EB43F21A0F751095B3CD8B06F9.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Blueprints/DCGamemode.uasset'
+[2018.07.05-22.31.55:474][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Blueprints/DCGamemode.uasset
+[2018.07.05-22.31.57:788][393]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.05-22.31.57:854][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.05-22.31.57:855][393]PIE: New page: PIE session: Map2 (6 Jul 2018 00:31:57)
+[2018.07.05-22.31.57:855][393]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.05-22.31.57:860][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005006s)
+[2018.07.05-22.31.57:877][393]LogAIModule: Creating AISystem for world Map2
+[2018.07.05-22.31.57:878][393]LogPlayLevel: PIE: World Init took: (0.017819s)
+[2018.07.05-22.31.57:878][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.023337s)
+[2018.07.05-22.31.57:972][393]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.05-22.31.58:023][393]LogInit: FAudioDevice initialized.
+[2018.07.05-22.31.58:059][393]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.05-22.31.58:062][393]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.05-23.31.58
+[2018.07.05-22.31.58:063][393]LogWorld: Bringing up level for play took: 0.002307
+[2018.07.05-22.31.58:077][393]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-22.31.58:078][393]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.05-22.31.58:078][393]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-22.31.58:111][393]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.05-22.31.58:111][393]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 0.986
+[2018.07.05-22.32.16:545][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPersonFire_Montage.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+[2018.07.05-22.32.16:549][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_AnimBP.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+[2018.07.05-22.32.16:552][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_Fire.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Animations/FirstPerson_Fire.uasset
+[2018.07.05-22.32.16:555][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_Idle.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Animations/FirstPerson_Idle.uasset
+[2018.07.05-22.32.16:560][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_JumpEnd.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset
+[2018.07.05-22.32.16:563][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_JumpLoop.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset
+[2018.07.05-22.32.16:565][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_JumpStart.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset
+[2018.07.05-22.32.16:568][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_Run.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Animations/FirstPerson_Run.uasset
+[2018.07.05-22.32.16:571][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Audio/FirstPersonTemplateWeaponFire02.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2018.07.05-22.32.16:575][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/M_UE4Man_Body.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset
+[2018.07.05-22.32.16:577][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.07.05-22.32.16:579][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.07.05-22.32.16:582][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.07.05-22.32.16:586][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.07.05-22.32.16:589][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.07.05-22.32.16:591][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.07.05-22.32.16:593][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.07.05-22.32.16:595][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.07.05-22.32.16:607][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Mesh/SK_Mannequin_Arms.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+[2018.07.05-22.32.16:608][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset
+[2018.07.05-22.32.16:609][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.07.05-22.32.16:610][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Textures/UE4_LOGO_CARD.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset
+[2018.07.05-22.32.16:611][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.07.05-22.32.16:613][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Textures/UE4_Mannequin__normals.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset
+[2018.07.05-22.32.16:614][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/M_FPGun.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset
+[2018.07.05-22.32.16:615][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.07.05-22.32.16:616][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.07.05-22.32.16:643][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset
+[2018.07.05-22.32.16:644][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.07.05-22.32.16:646][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.07.05-22.32.16:647][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.07.05-22.32.16:716][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.07.05-22.32.16:717][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.07.05-22.32.16:718][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Mesh/SK_FPGun.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
+[2018.07.05-22.32.16:726][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset
+[2018.07.05-22.32.16:734][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Textures/T_FPGun_M.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset
+[2018.07.05-22.32.16:735][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Textures/T_FPGun_N.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset
+[2018.07.05-22.32.16:750][863]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Textures/FirstPersonCrosshair.uasset to ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset
+[2018.07.05-22.32.16:788][863]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/FP_FirstPersonBP.upack)
+[2018.07.05-22.32.16:795][863]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.07.05-22.32.16:801][863]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/FirstPersonOverview.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset"
+[2018.07.05-22.32.16:802][863]LogPackFactory: Error: Unable to copy file "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset".
+[2018.07.05-22.32.16:804][863]LogPackFactory: Error: Unable to copy file "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset".
+[2018.07.05-22.32.16:805][863]LogPackFactory: Error: Unable to copy file "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset".
+[2018.07.05-22.32.16:860][863]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" to "../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap"
+[2018.07.05-22.32.16:889][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/FirstPersonOverview" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset" SILENT=true
+[2018.07.05-22.32.17:138][863]LogSavePackage: Save=24.90ms
+[2018.07.05-22.32.17:138][863]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/FirstPersonOverviewCE2F8B4F4502000BC63D67BBEDA9B89E.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset'
+[2018.07.05-22.32.17:145][863]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/FirstPersonBP/FirstPersonOverview.uasset
+[2018.07.05-22.33.31:172][933]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.05-22.33.32:817][933]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.05-22.33.52:790][933]LogTexture: Display: Building textures: T_ML_FineRubber (AutoDXT, 2048X2048)
+[2018.07.05-22.35.38:176][933]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2018.07.05-22.35.38:463][933]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.07.05-22.35.38:574][933]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_6 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.38:574][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.38:574][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.38:574][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.38:574][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.38:605][933]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (1 / 0)
+[2018.07.05-22.35.38:610][933]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.07.05-22.35.38:611][933]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_6 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.38:612][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.38:612][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.38:612][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.38:612][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.38:652][933]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.07.05-22.35.38:653][933]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_5 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.38:653][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.38:654][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.38:654][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.38:654][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.38:659][933]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.07.05-22.35.38:660][933]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_5 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.38:660][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.38:660][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.38:660][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.38:660][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.38:703][933]LogStaticMesh: Building static mesh FirstPersonProjectileMesh...
+[2018.07.05-22.35.38:871][933]LogStaticMesh: Built static mesh [0.21s] /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2018.07.05-22.35.39:139][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:176][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:176][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:176][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:176][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:176][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:176][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:176][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:176][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:201][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:207][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:207][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:207][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:207][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:207][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:207][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:207][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:207][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:291][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:313][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:313][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:313][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:313][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:313][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:313][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:313][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:314][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:319][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:325][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:325][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:325][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:325][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:325][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:325][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:325][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:325][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:331][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:337][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:337][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:337][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:337][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:337][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:337][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:337][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:337][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:354][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:360][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:360][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:360][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:360][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:360][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:360][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:360][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:361][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:367][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:372][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:373][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:373][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:373][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:373][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:373][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:373][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:373][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:379][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:384][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:384][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:384][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:384][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:389][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:389][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:389][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:389][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:396][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:402][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:402][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:402][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:402][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:402][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:402][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:402][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:402][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:408][933]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.07.05-22.35.39:414][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:414][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:414][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:414][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:414][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:414][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:414][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:414][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:463][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:468][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:468][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:477][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:478][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:478][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:478][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:479][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:479][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:479][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:488][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:494][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:494][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:494][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:494][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:494][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:494][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:494][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:494][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:494][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:500][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:505][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:505][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:505][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:505][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:505][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:505][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:505][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:506][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:506][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:511][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:532][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:532][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:532][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:532][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:533][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:533][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:533][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:533][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:533][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:538][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:571][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:571][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:571][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:571][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:571][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:571][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:571][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:572][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:572][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:577][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:582][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:583][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:583][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:583][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:583][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:583][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:583][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:583][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:583][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:588][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:610][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:610][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:610][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:610][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:610][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:610][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:610][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:610][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:610][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:616][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:621][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:621][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:621][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:621][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:621][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:621][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:621][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:621][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:622][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:627][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:633][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:633][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:633][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:633][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:633][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:633][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:633][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:633][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:633][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:648][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:655][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:655][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:655][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:655][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:655][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:655][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:655][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:655][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:655][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:661][933]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.05-22.35.39:666][933]LogMaterial: Warning: Failed to compile Material /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:666][933]LogMaterial: Warning: 	Missing Material Function
+[2018.07.05-22.35.39:666][933]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.07.05-22.35.39:666][933]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:666][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:666][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.07.05-22.35.39:666][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:666][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.07.05-22.35.39:666][933]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:813][933]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.07.05-22.35.39:814][933]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_3 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:815][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:815][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:815][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:815][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:820][933]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.07.05-22.35.39:821][933]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_3 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:822][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:822][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:822][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:822][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:832][933]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.07.05-22.35.39:834][933]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_0 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:834][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:834][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:834][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:834][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.39:840][933]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.07.05-22.35.39:841][933]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_0 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.05-22.35.39:841][933]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.05-22.35.39:841][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.07.05-22.35.39:841][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2018.07.05-22.35.39:841][933]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2018.07.05-22.35.56:732][933]LogStats: FPlatformStackWalk::StackWalkAndDump - 11.349 s
+[2018.07.05-22.35.56:732][933]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.05-22.35.56:732][933]LogOutputDevice: Error: 
+[2018.07.05-22.35.56:732][933]LogOutputDevice: Error: Ensure condition failed: CurObject != NULL [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 2323]
+[2018.07.05-22.35.56:732][933]LogOutputDevice: Error: 
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: Stack: 
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DFE3E36
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DD6C2D2
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DD84746
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007CC5651B
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007C44E149
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007C6C3352
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007C644BE2
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007C6477F9
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007C6BB3E5
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008508B967
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000850B74D4
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084ED42BC
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084EA7145
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084F41452
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084F29C92
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084F1B68F
+[2018.07.05-22.35.56:733][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DFBB759
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DFA3EE1
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DFBD5BB
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DF9F042
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: USER32.dll!0x00000000BED66CC1
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: USER32.dll!0x00000000BED66693
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DFBDC29
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084F4C576
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084EDDE33
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007C7510EC
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007CC4CA83
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006AAB490D
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006ABC5EB4
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006AB1D1CE
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006AB22A09
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006ABC0775
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006AAB6B27
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006AB1A2D9
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006AA34012
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006AA373D9
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000006AAB9BC5
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008508B967
+[2018.07.05-22.35.56:746][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000850B74D4
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084ED42BC
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084EA7145
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084F41452
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084F29C92
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084F1B68F
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DFBB759
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DFA3EE1
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DFBD5BB
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DF9F042
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: USER32.dll!0x00000000BED66CC1
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: USER32.dll!0x00000000BED66693
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007DFBDCC6
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor.exe!0x0000000034F54BE2
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor.exe!0x0000000034F63970
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor.exe!0x0000000034F639EA
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor.exe!0x0000000034F702D9
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: UE4Editor.exe!0x0000000034F71C47
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: KERNEL32.DLL!0x00000000BD903034
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: ntdll.dll!0x00000000C03E1431
+[2018.07.05-22.35.56:747][933]LogOutputDevice: Error: 
+[2018.07.05-22.35.56:800][933]LogStats:                SubmitErrorReport -  0.033 s
