@@ -1,0 +1,1293 @@
+﻿Log file open, 07/06/18 22:07:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DCJnO
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1110986526) SRandInit(1110986526).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208616
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.06-21.07.44:261][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.06-21.07.44:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.06-21.07.44:386][  0]LogInit: Computer: STARLORD
+[2018.07.06-21.07.44:386][  0]LogInit: User: oaste
+[2018.07.06-21.07.44:386][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.06-21.07.44:386][  0]LogInit: High frequency timer resolution =2.240911 MHz
+[2018.07.06-21.07.44:386][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.07.06-21.07.44:386][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.06-21.07.44:386][  0]LogMemory: Process Physical Memory: 278.11 MB used, 278.11 MB peak
+[2018.07.06-21.07.44:386][  0]LogMemory: Process Virtual Memory: 277.14 MB used, 277.14 MB peak
+[2018.07.06-21.07.44:387][  0]LogMemory: Physical Memory: 5546.44 MB used,  2415.71 MB free, 7962.15 MB total
+[2018.07.06-21.07.44:387][  0]LogMemory: Virtual Memory: 4792.99 MB used,  2415.71 MB free, 134217728.00 MB total
+[2018.07.06-21.07.44:840][  0]LogInit: Using OS detected language (en-GB).
+[2018.07.06-21.07.44:840][  0]LogInit: Using OS detected locale (en-GB).
+[2018.07.06-21.07.44:845][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.07.06-21.07.46:241][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.06-21.07.46:378][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2018.07.06-21.07.46:378][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.07.06-21.07.46:383][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.06-21.07.46:383][  0]LogD3D11RHI:       0/0/3981 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.06-21.07.46:383][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.06-21.07.46:411][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.06-21.07.46:411][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.06-21.07.46:411][  0]LogWindows: EnumDisplayDevices:
+[2018.07.06-21.07.46:411][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2018.07.06-21.07.46:415][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.07.06-21.07.46:415][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.07.06-21.07.46:415][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.06-21.07.46:415][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2018.07.06-21.07.46:415][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.06-21.07.46:415][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.06-21.07.46:416][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2018.07.06-21.07.46:441][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.06-21.07.46:531][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.07.06-21.07.46:533][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Intermediate/Shaders/WorkingDirectory/134496/).
+[2018.07.06-21.07.46:533][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/oaste/AppData/Local/Temp/UnrealShaderWorkingDir/38EAE2E14CEFD9381ACDC2968294DEF5/'.
+[2018.07.06-21.07.46:533][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.06-21.07.49:145][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.06-21.07.49:276][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.06-21.07.49:459][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.06-21.07.49:604][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.06-21.07.49:762][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.06-21.07.49:891][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.06-21.07.50:017][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.06-21.07.50:129][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.06-21.07.50:237][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.06-21.07.50:382][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.06-21.07.50:507][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.06-21.07.50:643][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.06-21.07.50:768][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.06-21.07.50:888][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.06-21.07.50:999][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.06-21.07.51:225][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.06-21.07.51:225][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.06-21.07.51:317][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.06-21.07.51:586][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.06-21.07.51:670][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.06-21.07.51:837][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.06-21.07.51:981][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.06-21.07.52:155][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.06-21.07.52:305][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.06-21.07.52:305][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.06-21.07.53:962][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.06-21.07.54:149][  0]LogDerivedDataCache: Loaded boot cache 0.19s 93MB C:/Users/oaste/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.06-21.07.54:149][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/oaste/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.07.06-21.07.54:149][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.06-21.07.54:149][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.06-21.07.54:149][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.06-21.07.54:149][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.06-21.07.54:186][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.06-21.07.54:199][  0]LogDerivedDataCache: Using Local data cache path C:/Users/oaste/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.06-21.07.54:229][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.06-21.07.54:229][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.06-21.07.54:230][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.06-21.07.54:230][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.06-21.07.54:969][  0]LogAssetRegistry: FAssetRegistry took 0.0494 seconds to start up
+[2018.07.06-21.07.55:331][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.06-21.07.55:696][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.07.06-21.07.56:753][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.06-21.07.56:880][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.06-21.07.56:880][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.06-21.07.56:880][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.06-21.07.56:880][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.06-21.07.56:880][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.06-21.07.57:655][  0]LogNetVersion: DCJnO , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2143308826)
+[2018.07.06-21.07.58:625][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.525731 seconds
+[2018.07.06-21.07.58:638][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.07.06-21.07.58:638][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.07.06-21.07.58:638][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.06-21.07.58:839][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.06-21.08.05:743][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.06-21.08.05:831][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.06-21.08.07:536][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.06-21.08.08:749][  0]SourceControl: Source control is disabled
+[2018.07.06-21.08.08:749][  0]SourceControl: Source control is disabled
+[2018.07.06-21.08.08:883][  0]SourceControl: Source control is disabled
+[2018.07.06-21.08.09:013][  0]SourceControl: Source control is disabled
+[2018.07.06-21.08.10:740][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.06-21.08.11:527][  0]LogOcInput: OculusInput pre-init called
+[2018.07.06-21.08.12:278][  0]LogEngine: Initializing Engine...
+[2018.07.06-21.08.12:282][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.06-21.08.12:738][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.06-21.08.12:738][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.06-21.08.13:100][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.06-21.08.13:119][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-21.08.13:336][  0]LogInit: FAudioDevice initialized.
+[2018.07.06-21.08.13:693][  0]LogDerivedDataCache: Saved boot cache 0.36s 93MB C:/Users/oaste/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.06-21.08.13:702][  0]LogInit: Texture streaming: Enabled
+[2018.07.06-21.08.14:278][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.06-21.08.15:210][  0]LogInit: Transaction tracking system initialized
+[2018.07.06-21.08.16:209][  0]BlueprintLog: New page: Editor Load
+[2018.07.06-21.08.19:077][  0]LocalizationService: Localization service is disabled
+[2018.07.06-21.08.21:128][  0]LogConsoleResponse: Display: 
+[2018.07.06-21.08.21:762][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.06-21.08.21:762][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.06-21.08.21:762][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.06-21.08.21:775][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/' took 0.07s
+[2018.07.06-21.08.25:198][  0]SourceControl: Source control is disabled
+[2018.07.06-21.08.25:199][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.06-21.08.25:200][  0]LightingResults: New page: Lighting Build
+[2018.07.06-21.08.25:305][  0]MapCheck: New page: Map Check
+[2018.07.06-21.08.25:305][  0]LightingResults: New page: Lighting Build
+[2018.07.06-21.08.26:157][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.06-21.08.26:169][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.06-21.08.26:258][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.06-21.08.26:446][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 187.692ms to complete.
+[2018.07.06-21.08.26:446][  0]LogFileHelpers: Loading map 'Template_Default' took 1.247
+[2018.07.06-21.08.30:085][  0]LogCollectionManager: Loaded 0 collections in 0.029193 seconds
+[2018.07.06-21.08.30:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Collections/' took 0.01s
+[2018.07.06-21.08.30:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Developers/oaste/Collections/' took 0.01s
+[2018.07.06-21.08.30:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Collections/' took 0.01s
+[2018.07.06-21.08.30:260][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.06-21.08.30:282][  0]LogContentBrowser: Native class hierarchy populated in 0.0216 seconds. Added 2386 classes and 500 folders.
+[2018.07.06-21.08.30:514][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0025 seconds. Added 0 classes and 0 folders.
+[2018.07.06-21.08.36:619][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2018.07.06-21.08.38:157][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.07.06-21.08.39:612][  0]LogSlate: Took 0.001330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.06-21.08.39:632][  0]LogSlate: Took 0.000452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.06-21.08.40:037][  0]LogSlate: Took 0.065116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.06-21.08.42:032][  0]LogRenderer: Reallocating scene render targets to support 780x344 Format 10 NumSamples 1 (Frame:1).
+[2018.07.06-21.08.44:278][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0037 seconds. Added 1 classes and 2 folders.
+[2018.07.06-21.08.44:279][  0]LogLoad: (Engine Initialization) Total time: 64.51 seconds
+[2018.07.06-21.08.44:279][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.06-21.08.44:279][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.07.06-21.08.44:708][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.06-21.08.46:005][  4]LogAssetRegistry: Asset discovery search completed in 51.0611 seconds
+[2018.07.06-21.08.46:010][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.06-21.08.46:010][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000172 seconds (updated 0 objects)
+[2018.07.06-21.08.49:049][ 13]LogSlate: Took 0.021605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.06-21.09.18:736][269]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.06-21.09.19:146][269]LogAIModule: Creating AISystem for world Map2
+[2018.07.06-21.09.19:229][269]Cmd: MAP LOAD FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.06-21.09.19:229][269]LightingResults: New page: Lighting Build
+[2018.07.06-21.09.19:230][269]LoadErrors: New page: Loading map: Map2.umap
+[2018.07.06-21.09.19:231][269]MapCheck: New page: Map Check
+[2018.07.06-21.09.19:231][269]LightingResults: New page: Lighting Build
+[2018.07.06-21.09.19:270][269]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.06-21.09.19:372][269]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.06-21.09.19:525][269]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 152.634ms to complete.
+[2018.07.06-21.09.19:525][269]LogFileHelpers: Loading map 'Map2' took 0.298
+[2018.07.06-21.25.53:105][243]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\oaste\Downloads\Walking (1).fbx)
+[2018.07.06-21.25.53:164][243]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: NodeAttribute, ItemCount : 57
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: Model, ItemCount : 58
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: Material, ItemCount : 1
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: Texture, ItemCount : 5
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: Video, ItemCount : 5
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: Deformer, ItemCount : 47
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: AnimationCurveNode, ItemCount : 48
+[2018.07.06-21.25.53:165][243]LogFbx: ItemName: AnimationCurve, ItemCount : 279
+[2018.07.06-21.25.53:174][243]LogFbx: Loading FBX Scene from C:\Users\oaste\Downloads\Walking (1).fbx
+[2018.07.06-21.25.53:254][243]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-21.25.53:374][243]LogLinker: Warning: Can't find file '/Game/GreenArrow'
+[2018.07.06-21.25.53:384][243]LogLinker: Warning: Can't find file '/Game/GreenArrow'
+[2018.07.06-21.25.53:386][243]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/GreenArrow.GreenArrow'
+[2018.07.06-21.26.03:385][243]LogFbx: Loading FBX Scene from C:\Users\oaste\Downloads\Walking (1).fbx
+[2018.07.06-21.26.03:491][243]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-21.26.03:518][243]LogFbx: =================================================
+[2018.07.06-21.26.03:519][243]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.26.03:519][243]LogFbx: 	Total Deformer Count 1179333984.
+[2018.07.06-21.26.03:519][243]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.26.03:519][243]LogFbx: =================================================
+[2018.07.06-21.26.03:519][243]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.26.03:519][243]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.26.03:519][243]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.26.03:522][243]LogFbx: =================================================
+[2018.07.06-21.26.03:522][243]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.26.03:522][243]LogFbx: 	Total Deformer Count 1179333984.
+[2018.07.06-21.26.03:522][243]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.26.03:522][243]LogFbx: =================================================
+[2018.07.06-21.26.03:522][243]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.26.03:522][243]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.26.03:522][243]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.26.03:721][243]LogFbx: Valid bind pose for Pose (BindPose) - INJ_iOS_HERO_Barry_Allen_Flash_New_52
+[2018.07.06-21.26.04:284][243]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.06-21.26.05:037][243]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2018.07.06-21.26.06:193][243]LogSkeletalMesh: Section 0: 3430 vertices, 46 active bones
+[2018.07.06-21.26.06:307][243]LogSkeletalMesh: Section 0: Material=0, 5663 triangles
+[2018.07.06-21.26.06:443][243]LogLinker: Can't find file '/Game/Flash/Walking__1__PhysicsAsset'
+[2018.07.06-21.26.06:443][243]LogLinker: Can't find file '/Game/Flash/Walking__1__PhysicsAsset'
+[2018.07.06-21.26.06:828][243]LogFbx: =================================================
+[2018.07.06-21.26.06:828][243]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.26.06:828][243]LogFbx: 	Total Deformer Count 1179103168.
+[2018.07.06-21.26.06:828][243]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.26.06:828][243]LogFbx: =================================================
+[2018.07.06-21.26.06:828][243]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.26.06:828][243]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.26.06:828][243]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.26.06:831][243]LogFbx: =================================================
+[2018.07.06-21.26.06:831][243]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.26.06:831][243]LogFbx: 	Total Deformer Count 1179103168.
+[2018.07.06-21.26.06:831][243]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.26.06:831][243]LogFbx: =================================================
+[2018.07.06-21.26.06:831][243]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.26.06:831][243]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.26.06:831][243]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(0) Hips
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(1) Spine
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(2) Spine1
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(3) Spine2
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(4) Neck
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(5) Head
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(8) LeftArm
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(10) LeftHand
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.07.06-21.26.06:848][243]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(27) RightShoulder
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(28) RightArm
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(29) RightForeArm
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(30) RightHand
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.07.06-21.26.06:849][243]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(48) LeftLeg
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(49) LeftFoot
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(53) RightLeg
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(54) RightFoot
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(55) RightToeBase
+[2018.07.06-21.26.06:850][243]LogFbx: SortedLinks :(56) RightToe_End
+[2018.07.06-21.26.06:939][243]LogFbx: Parsing AnimStack mixamo.com
+[2018.07.06-21.26.06:998][243]LogLinker: Can't find file '/Game/Flash/Walking__1__Anim'
+[2018.07.06-21.26.06:999][243]LogLinker: Can't find file '/Game/Flash/Walking__1__Anim'
+[2018.07.06-21.26.07:659][243]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Flash/Walking__1__Anim.Walking__1__Anim
+[2018.07.06-21.26.08:468][243]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.06-21.26.08:697][243]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\oaste\Downloads\Idle.fbx)
+[2018.07.06-21.26.08:740][243]LogFbx: Loading FBX Scene from C:\Users\oaste\Downloads\Idle.fbx
+[2018.07.06-21.26.08:815][243]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-21.26.08:822][243]LogFbx: =================================================
+[2018.07.06-21.26.08:822][243]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.26.08:822][243]LogFbx: 	Total Deformer Count 1176085152.
+[2018.07.06-21.26.08:822][243]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.26.08:822][243]LogFbx: =================================================
+[2018.07.06-21.26.08:823][243]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.26.08:823][243]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.26.08:823][243]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.26.08:825][243]LogFbx: =================================================
+[2018.07.06-21.26.08:825][243]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.26.08:825][243]LogFbx: 	Total Deformer Count 1176085152.
+[2018.07.06-21.26.08:826][243]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.26.08:826][243]LogFbx: =================================================
+[2018.07.06-21.26.08:826][243]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.26.08:826][243]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.26.08:826][243]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.26.08:827][243]LogFbx: Valid bind pose for Pose (BindPose) - INJ_iOS_HERO_Barry_Allen_Flash_New_52
+[2018.07.06-21.26.08:851][243]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2018.07.06-21.26.09:117][243]LogSkeletalMesh: Section 0: 3430 vertices, 46 active bones
+[2018.07.06-21.26.09:126][243]LogSkeletalMesh: Section 0: Material=0, 5663 triangles
+[2018.07.06-21.26.09:131][243]LogLinker: Can't find file '/Game/Flash/Idle_PhysicsAsset'
+[2018.07.06-21.26.09:131][243]LogLinker: Can't find file '/Game/Flash/Idle_PhysicsAsset'
+[2018.07.06-21.26.09:146][243]LogFbx: =================================================
+[2018.07.06-21.26.09:147][243]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.26.09:147][243]LogFbx: 	Total Deformer Count 1176081312.
+[2018.07.06-21.26.09:147][243]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.26.09:147][243]LogFbx: =================================================
+[2018.07.06-21.26.09:147][243]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.26.09:147][243]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.26.09:148][243]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.26.09:153][243]LogFbx: =================================================
+[2018.07.06-21.26.09:153][243]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.26.09:154][243]LogFbx: 	Total Deformer Count 1176081312.
+[2018.07.06-21.26.09:154][243]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.26.09:154][243]LogFbx: =================================================
+[2018.07.06-21.26.09:154][243]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.26.09:154][243]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.26.09:154][243]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.26.09:154][243]LogFbx: SortedLinks :(0) Hips
+[2018.07.06-21.26.09:154][243]LogFbx: SortedLinks :(1) Spine
+[2018.07.06-21.26.09:154][243]LogFbx: SortedLinks :(2) Spine1
+[2018.07.06-21.26.09:154][243]LogFbx: SortedLinks :(3) Spine2
+[2018.07.06-21.26.09:154][243]LogFbx: SortedLinks :(4) Neck
+[2018.07.06-21.26.09:154][243]LogFbx: SortedLinks :(5) Head
+[2018.07.06-21.26.09:154][243]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.07.06-21.26.09:154][243]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.07.06-21.26.09:154][243]LogFbx: SortedLinks :(8) LeftArm
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(10) LeftHand
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.07.06-21.26.09:155][243]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(27) RightShoulder
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(28) RightArm
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(29) RightForeArm
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(30) RightHand
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(31) RightHandThumb1
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(32) RightHandThumb2
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(33) RightHandThumb3
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(34) RightHandThumb4
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(43) RightHandRing1
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(44) RightHandRing2
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(45) RightHandRing3
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(46) RightHandRing4
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(47) LeftUpLeg
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(48) LeftLeg
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(49) LeftFoot
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(50) LeftToeBase
+[2018.07.06-21.26.09:156][243]LogFbx: SortedLinks :(51) LeftToe_End
+[2018.07.06-21.26.09:157][243]LogFbx: SortedLinks :(52) RightUpLeg
+[2018.07.06-21.26.09:157][243]LogFbx: SortedLinks :(53) RightLeg
+[2018.07.06-21.26.09:157][243]LogFbx: SortedLinks :(54) RightFoot
+[2018.07.06-21.26.09:157][243]LogFbx: SortedLinks :(55) RightToeBase
+[2018.07.06-21.26.09:157][243]LogFbx: SortedLinks :(56) RightToe_End
+[2018.07.06-21.26.09:158][243]LogFbx: Parsing AnimStack mixamo.com
+[2018.07.06-21.26.09:163][243]LogLinker: Can't find file '/Game/Flash/Idle_Anim'
+[2018.07.06-21.26.09:163][243]LogLinker: Can't find file '/Game/Flash/Idle_Anim'
+[2018.07.06-21.26.10:183][243]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Flash/Idle_Anim.Idle_Anim
+[2018.07.06-21.26.10:211][243]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.07.06-21.26.15:752][247]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map2' took 0.028
+[2018.07.06-21.26.15:840][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Flash/Walking__1_] ([1] browsable assets)...
+[2018.07.06-21.26.15:913][247]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Flash/Walking__1_.Walking__1_]
+[2018.07.06-21.26.15:913][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/Walking__1_]
+[2018.07.06-21.26.15:913][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Walking__1_" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Walking__1__Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.07.06-21.26.16:570][247]LogSavePackage: Save=434.15ms
+[2018.07.06-21.26.16:570][247]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Walking__1__Auto103F7154043413489B4A2DD89F5A27409.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Walking__1__Auto1.uasset'
+[2018.07.06-21.26.16:606][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Walking__1__Auto1.uasset
+[2018.07.06-21.26.16:608][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Flash/Walking__1__PhysicsAsset] ([1] browsable assets)...
+[2018.07.06-21.26.16:608][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/Walking__1__PhysicsAsset]
+[2018.07.06-21.26.16:637][247]LogSavePackage: Save=27.16ms
+[2018.07.06-21.26.16:638][247]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Walking__1__PhysicsAsset_Auto1FBD2292A45BDFBFE4CD4878CC759CE8B.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Walking__1__PhysicsAsset_Auto1.uasset'
+[2018.07.06-21.26.16:640][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Walking__1__PhysicsAsset_Auto1.uasset
+[2018.07.06-21.26.16:642][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Flash/Walking__1__Anim] ([1] browsable assets)...
+[2018.07.06-21.26.16:702][247]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Flash/Walking__1__Anim.Walking__1__Anim]
+[2018.07.06-21.26.16:702][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/Walking__1__Anim]
+[2018.07.06-21.26.16:762][247]LogSavePackage: Save=24.78ms
+[2018.07.06-21.26.16:762][247]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Walking__1__Anim_Auto169B9419541C0476E78C760B2AFC632CF.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Walking__1__Anim_Auto1.uasset'
+[2018.07.06-21.26.16:764][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Walking__1__Anim_Auto1.uasset
+[2018.07.06-21.26.16:766][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Flash/Idle] ([1] browsable assets)...
+[2018.07.06-21.26.16:827][247]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Flash/Idle.Idle]
+[2018.07.06-21.26.16:827][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/Idle]
+[2018.07.06-21.26.16:828][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Idle" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.07.06-21.26.16:873][247]LogSavePackage: Save=42.83ms
+[2018.07.06-21.26.16:873][247]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Idle_Auto1A9AD130945575E146BC88CBC72842B1C.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_Auto1.uasset'
+[2018.07.06-21.26.16:876][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_Auto1.uasset
+[2018.07.06-21.26.16:877][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Flash/Idle_PhysicsAsset] ([1] browsable assets)...
+[2018.07.06-21.26.16:878][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/Idle_PhysicsAsset]
+[2018.07.06-21.26.16:909][247]LogSavePackage: Save=29.40ms
+[2018.07.06-21.26.16:909][247]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Idle_PhysicsAsset_Auto1D7CF03D348F7147782DDD0BB2D053009.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_PhysicsAsset_Auto1.uasset'
+[2018.07.06-21.26.16:912][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_PhysicsAsset_Auto1.uasset
+[2018.07.06-21.26.16:913][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Flash/Idle_Anim] ([1] browsable assets)...
+[2018.07.06-21.26.16:974][247]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Flash/Idle_Anim.Idle_Anim]
+[2018.07.06-21.26.16:974][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/Idle_Anim]
+[2018.07.06-21.26.16:974][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Idle_Anim" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_Anim_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.07.06-21.26.17:003][247]LogSavePackage: Save=25.62ms
+[2018.07.06-21.26.17:003][247]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Idle_Anim_Auto1843191104237BC28985C67BC14D5A4D1.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_Anim_Auto1.uasset'
+[2018.07.06-21.26.17:006][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_Anim_Auto1.uasset
+[2018.07.06-21.26.17:006][247]LogFileHelpers: Auto-saving content packages took 1.237
+[2018.07.06-21.52.57:841][470]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2018.07.06-21.52.59:722][470]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.06-21.53.03:289][470]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0054 seconds. Added 113 classes and 0 folders.
+[2018.07.06-21.53.06:863][470]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.06-21.53.09:235][470]LogSlate: Took 0.029534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.06-21.53.09:523][470]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0015 seconds. Added 1 classes and 0 folders.
+[2018.07.06-21.53.10:163][470]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.06-21.53.48:202][835]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-21.53.52:528][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.06-21.53.52:613][893]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.07.06-21.53.53:848][893]LogRenderer: Reallocating scene render targets to support 780x364 Format 10 NumSamples 1 (Frame:1).
+[2018.07.06-21.53.53:848][893]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.06-21.54.03:607][ 34]LogEditorFactories: Performing atomic reimport of [C:/Users/oaste/Downloads/Idle.fbx]
+[2018.07.06-21.54.03:678][ 34]LogFbx: Loading FBX Scene from C:/Users/oaste/Downloads/Idle.fbx
+[2018.07.06-21.54.03:753][ 34]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-21.54.03:760][ 34]LogFbx: =================================================
+[2018.07.06-21.54.03:760][ 34]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.54.03:760][ 34]LogFbx: 	Total Deformer Count -1962129792.
+[2018.07.06-21.54.03:760][ 34]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.54.03:760][ 34]LogFbx: =================================================
+[2018.07.06-21.54.03:761][ 34]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.54.03:761][ 34]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.54.03:761][ 34]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.54.03:764][ 34]LogFbx: =================================================
+[2018.07.06-21.54.03:764][ 34]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.54.03:764][ 34]LogFbx: 	Total Deformer Count -1962129792.
+[2018.07.06-21.54.03:764][ 34]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.54.03:764][ 34]LogFbx: =================================================
+[2018.07.06-21.54.03:764][ 34]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.54.03:764][ 34]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.54.03:764][ 34]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.54.03:766][ 34]LogFbx: Parsing AnimStack mixamo.com
+[2018.07.06-21.54.04:715][ 34]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Flash/Idle_Anim.Idle_Anim
+[2018.07.06-21.54.04:788][ 34]LogEditorFactories: -- imported successfully
+[2018.07.06-21.54.05:072][ 34]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.06-21.54.22:786][261]LogEditorFactories: Performing atomic reimport of [C:/Users/oaste/Downloads/Walking (1).fbx]
+[2018.07.06-21.54.22:892][261]LogFbx: Loading FBX Scene from C:/Users/oaste/Downloads/Walking (1).fbx
+[2018.07.06-21.54.22:972][261]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-21.54.22:979][261]LogFbx: =================================================
+[2018.07.06-21.54.22:979][261]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.54.22:979][261]LogFbx: 	Total Deformer Count -1789476320.
+[2018.07.06-21.54.22:979][261]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.54.22:979][261]LogFbx: =================================================
+[2018.07.06-21.54.22:979][261]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.54.22:979][261]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.54.22:979][261]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.54.22:982][261]LogFbx: =================================================
+[2018.07.06-21.54.22:982][261]LogFbx: Dumping Node START [INJ_iOS_HERO_Barry_Allen_Flash_New_52] 
+[2018.07.06-21.54.22:982][261]LogFbx: 	Total Deformer Count -1960247456.
+[2018.07.06-21.54.22:982][261]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.07.06-21.54.22:982][261]LogFbx: =================================================
+[2018.07.06-21.54.22:982][261]LogFbx: 	Attribute (INJ_iOS_HERO_Barry_Allen_Flash_New_52) Type (4).
+[2018.07.06-21.54.22:982][261]LogFbx: 		[Node Attribute Child 1] INJ_iOS_HERO_Barry_Allen_Flash_New_52 (Type Mesh).
+[2018.07.06-21.54.22:983][261]LogFbx: Dumping Node END [INJ_iOS_HERO_Barry_Allen_Flash_New_52]
+[2018.07.06-21.54.22:984][261]LogFbx: Parsing AnimStack mixamo.com
+[2018.07.06-21.54.23:325][261]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Flash/Walking__1__Anim.Walking__1__Anim
+[2018.07.06-21.54.23:348][261]LogEditorFactories: -- imported successfully
+[2018.07.06-21.55.19:487][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.06-21.57.55:443][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/FlashRunningBS" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/FlashRunningBS.uasset" SILENT=true
+[2018.07.06-21.57.55:563][591]LogSavePackage: Save=92.74ms
+[2018.07.06-21.57.55:564][591]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/FlashRunningBS79207B5B4AE44FE3C3AAFE9A27B51AE9.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/FlashRunningBS.uasset'
+[2018.07.06-21.57.55:577][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/FlashRunningBS.uasset
+[2018.07.06-21.58.36:945][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.06-21.58.37:030][324]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.07.06-21.58.37:843][324]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.06-21.58.49:222][474]LogLinker: Warning: Can't find file '/Game/GreenArrow/GA_Skeleton'
+[2018.07.06-21.58.49:222][474]LoadErrors: Failed to load /Game/GreenArrow/GA_Skeleton.GA_Skeleton Referenced by Default__GreenArrowCharacter_C
+[2018.07.06-21.58.49:223][474]LogLinker: Warning: Can't find file for asset '/Game/GreenArrow/GA_Skeleton' while loading ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/GreenArrow/GreenArrowCharacter.uasset.
+[2018.07.06-21.58.49:223][474]LoadErrors: Error: /Game/GreenArrow/GreenArrowCharacter : Can't find file for asset. /Game/GreenArrow/GA_Skeleton
+[2018.07.06-21.58.49:486][474]LogLinker: Warning: Can't find file '/Game/GreenArrow/GA_Skeleton'
+[2018.07.06-21.58.49:486][474]LogLinker: Warning: Can't find file for asset '/Game/GreenArrow/GA_Skeleton' while loading ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/GreenArrow/GreenArrowCharacter.uasset.
+[2018.07.06-21.58.49:487][474]LogLinker: Warning: Can't find file '/Game/GreenArrow/GA_Skeleton'
+[2018.07.06-21.58.49:487][474]LogLinker: Warning: Can't find file for asset '/Game/GreenArrow/GA_Skeleton' while loading ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/GreenArrow/GreenArrowCharacter.uasset.
+[2018.07.06-21.58.49:847][474]LogLinker: Warning: Can't find file '/Game/GreenArrow/GA_Skeleton'
+[2018.07.06-21.58.49:848][474]LogLinker: Warning: Can't find file for asset '/Game/GreenArrow/GA_Skeleton' while loading ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/GreenArrow/GreenArrowCharacter.uasset.
+[2018.07.06-21.58.49:850][474]LogLinker: Warning: Can't find file '/Game/GreenArrow/GA_Skeleton'
+[2018.07.06-21.58.49:851][474]LogLinker: Warning: Can't find file for asset '/Game/GreenArrow/GA_Skeleton' while loading ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/GreenArrow/GreenArrowCharacter.uasset.
+[2018.07.06-21.58.50:999][474]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.07.06-21.58.51:575][474]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2018.07.06-21.58.53:014][474]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.06-21.58.53:195][476]LogSkinnedMeshComp: Warning: GetSocketByName(LeftHand): No SkeletalMesh for Component(CharacterMesh0) Actor(GreenArrowCharacter_C_0)
+[2018.07.06-21.58.53:195][476]LogSkinnedMeshComp: Warning: GetSocketByName(LeftHand): No SkeletalMesh for Component(CharacterMesh0) Actor(GreenArrowCharacter_C_0)
+[2018.07.06-21.58.53:195][476]LogSkinnedMeshComp: Warning: GetSocketByName(LeftHand): No SkeletalMesh for Component(CharacterMesh0) Actor(GreenArrowCharacter_C_0)
+[2018.07.06-21.58.53:196][476]LogSkinnedMeshComp: Warning: GetSocketByName(LeftHand): No SkeletalMesh for Component(CharacterMesh0) Actor(GreenArrowCharacter_C_0)
+[2018.07.06-21.58.53:196][476]LogSkinnedMeshComp: Warning: GetSocketByName(LeftHand): No SkeletalMesh for Component(CharacterMesh0) Actor(GreenArrowCharacter_C_0)
+[2018.07.06-21.58.53:196][476]LogSkinnedMeshComp: Warning: GetSocketByName(LeftHand): No SkeletalMesh for Component(CharacterMesh0) Actor(GreenArrowCharacter_C_0)
+[2018.07.06-21.58.53:204][476]LogSkinnedMeshComp: Warning: GetSocketByName(LeftHand): No SkeletalMesh for Component(CharacterMesh0) Actor(GreenArrowCharacter_C_0)
+[2018.07.06-21.58.53:204][476]LogSkinnedMeshComp: Warning: GetSocketByName(LeftHand): No SkeletalMesh for Component(CharacterMesh0) Actor(GreenArrowCharacter_C_0)
+[2018.07.06-21.59.11:009][731]LogSlate: Took 0.065584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.06-22.00.33:094][ 20]LogSlate: Took 0.013808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.06-22.03.26:665][716]LogEditorTransaction: Undo Move Node
+[2018.07.06-22.03.27:768][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.06-22.03.27:808][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.06-22.03.27:811][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.06-22.03.27:818][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.07.06-22.03.32:340][758]LogEditorTransaction: Undo Delete current selection
+[2018.07.06-22.03.33:428][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.06-22.03.33:431][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.06-22.03.33:433][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.06-22.03.33:439][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.07.06-22.03.34:119][767]LogEditorTransaction: Undo Add Node
+[2018.07.06-22.03.35:213][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.06-22.03.35:216][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.06-22.03.35:219][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.06-22.03.35:225][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.07.06-22.03.35:601][771]LogEditorTransaction: Undo Create Pin Link
+[2018.07.06-22.03.36:651][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.06-22.03.36:654][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.06-22.03.36:657][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.06-22.03.36:663][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.07.06-22.03.36:859][772]LogEditorTransaction: Undo Move Node
+[2018.07.06-22.03.37:887][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.06-22.03.37:890][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.06-22.03.37:893][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.06-22.03.37:899][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.07.06-22.03.38:838][785]LogEditorTransaction: Undo Delete current selection
+[2018.07.06-22.03.39:894][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.06-22.03.39:897][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.06-22.03.39:899][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.06-22.03.39:905][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.07.06-22.03.39:906][785]LogEditorTransaction: Undo Delete current selection
+[2018.07.06-22.03.40:934][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.06-22.03.40:936][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.06-22.03.40:939][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.07.06-22.03.40:945][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.07.06-22.05.36:780][725]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.06.16:118][233]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.06.30:842][442]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.06.38:700][550]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.06.55:655][812]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.07.36:195][392]LogBlueprint: Warning: [FlashBasic] 'Direction' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:195][392]LogBlueprint: Warning: [FlashBasic] 'Direction' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:195][392]LogBlueprint: Warning: [FlashBasic] 'isPunching' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:195][392]LogBlueprint: Warning: [FlashBasic] 'isPunching' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:195][392]LogBlueprint: Warning: [FlashBasic] 'isSliding' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:196][392]LogBlueprint: Warning: [FlashBasic] 'isSliding' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:196][392]LogBlueprint: Warning: [FlashBasic] 'isRunning' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:196][392]LogBlueprint: Warning: [FlashBasic] 'isRunning' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:196][392]LogBlueprint: Warning: [FlashBasic] 'isAiming' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:196][392]LogBlueprint: Warning: [FlashBasic] 'isAiming' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:196][392]LogBlueprint: Warning: [FlashBasic] 'MaxSpeed' variable not found. Base class was probably changed.
+[2018.07.06-22.07.36:197][392]LogBlueprint: Warning: [FlashBasic] 'MaxSpeed' variable not found. Base class was probably changed.
+[2018.07.06-22.11.18:719][991]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.11.18:966][991]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "MaxSpeed" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set MaxSpeed
+[2018.07.06-22.11.18:967][991]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "isRunning" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set isRunning
+[2018.07.06-22.11.18:967][991]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "Direction" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set Direction
+[2018.07.06-22.11.18:972][991]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "MaxSpeed" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set MaxSpeed
+[2018.07.06-22.11.18:973][991]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "isRunning" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set isRunning
+[2018.07.06-22.11.18:973][991]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "Direction" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set Direction
+[2018.07.06-22.11.19:050][991]LogBlueprint: Error: [Compiler FlashBasic] The type of  Object  is undetermined.  Connect something to  Cast To FlashCharacter  to imply a specific type.
+[2018.07.06-22.11.19:051][991]LogBlueprint: Error: [Compiler FlashBasic] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.07.06-22.11.19:052][991]LogBlueprint: Error: [Compiler FlashBasic] The property associated with  Max Speed  could not be found
+[2018.07.06-22.11.19:052][991]LogBlueprint: Error: [Compiler FlashBasic] The property associated with  Is Running  could not be found
+[2018.07.06-22.11.19:052][991]LogBlueprint: Error: [Compiler FlashBasic] The property associated with  Direction  could not be found
+[2018.07.06-22.11.19:639][991]LogBlueprint: Warning: [Compiler FlashBasic] [3819.86] Compile of FlashBasic failed. 5 Fatal Issue(s) 6 Warning(s) [in 908 ms] (/Game/Flash/FlashBasic.FlashBasic)
+[2018.07.06-22.12.09:318][776]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.12.09:478][776]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "Direction" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set Direction
+[2018.07.06-22.12.09:487][776]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "Direction" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set Direction
+[2018.07.06-22.12.09:493][776]LogBlueprint: Error: [Compiler FlashBasic] The type of  Object  is undetermined.  Connect something to  Cast To FlashCharacter  to imply a specific type.
+[2018.07.06-22.12.09:494][776]LogBlueprint: Error: [Compiler FlashBasic] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.07.06-22.12.09:494][776]LogBlueprint: Error: [Compiler FlashBasic] The property associated with  Direction  could not be found
+[2018.07.06-22.12.09:827][776]LogBlueprint: Warning: [Compiler FlashBasic] [3870.06] Compile of FlashBasic failed. 3 Fatal Issue(s) 2 Warning(s) [in 509 ms] (/Game/Flash/FlashBasic.FlashBasic)
+[2018.07.06-22.13.11:460][272]BlueprintLog: New page: Compile FlashCharacter
+[2018.07.06-22.13.11:610][272]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "Direction" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set Direction
+[2018.07.06-22.13.11:616][272]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "Direction" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set Direction
+[2018.07.06-22.13.11:617][272]LogBlueprint: Error: [Compiler FlashBasic] The type of  Object  is undetermined.  Connect something to  Cast To FlashCharacter  to imply a specific type.
+[2018.07.06-22.13.11:626][272]LogBlueprint: Error: [Compiler FlashBasic] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.07.06-22.13.11:626][272]LogBlueprint: Error: [Compiler FlashBasic] The property associated with  Direction  could not be found
+[2018.07.06-22.13.11:640][272]LogBlueprint: Warning: [Compiler FlashBasic] [3931.87] Compile of FlashBasic failed. 3 Fatal Issue(s) 2 Warning(s) [in 111 ms] (/Game/Flash/FlashBasic.FlashBasic)
+[2018.07.06-22.13.15:361][313]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.13.15:483][313]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "Direction" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set Direction
+[2018.07.06-22.13.15:488][313]LogBlueprint: Warning: [Compiler FlashBasic] Could not find a variable named "Direction" in 'FlashBasic_C'.
+Make sure 'FlashBasic_C' has been compiled for  Set Direction
+[2018.07.06-22.13.15:490][313]LogBlueprint: Error: [Compiler FlashBasic] The type of  Object  is undetermined.  Connect something to  Cast To FlashCharacter  to imply a specific type.
+[2018.07.06-22.13.15:491][313]LogBlueprint: Error: [Compiler FlashBasic] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.07.06-22.13.15:491][313]LogBlueprint: Error: [Compiler FlashBasic] The property associated with  Direction  could not be found
+[2018.07.06-22.13.15:738][313]LogBlueprint: Warning: [Compiler FlashBasic] [3935.97] Compile of FlashBasic failed. 3 Fatal Issue(s) 2 Warning(s) [in 377 ms] (/Game/Flash/FlashBasic.FlashBasic)
+[2018.07.06-22.13.43:163][639]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.13.43:297][639]LogBlueprint: Error: [Compiler FlashBasic] The type of  Object  is undetermined.  Connect something to  Cast To FlashCharacter  to imply a specific type.
+[2018.07.06-22.13.43:298][639]LogBlueprint: Error: [Compiler FlashBasic] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.07.06-22.13.44:490][639]LogBlueprint: Warning: [Compiler FlashBasic] [3964.72] Compile of FlashBasic failed. 2 Fatal Issue(s) 0 Warning(s) [in 1,326 ms] (/Game/Flash/FlashBasic.FlashBasic)
+[2018.07.06-22.13.59:991][904]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.14.20:421][945]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map2' took 1.423
+[2018.07.06-22.14.20:535][945]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Flash/FlashBasic] ([1] browsable assets)...
+[2018.07.06-22.14.20:796][945]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Flash/FlashBasic.FlashBasic]
+[2018.07.06-22.14.20:796][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/FlashBasic]
+[2018.07.06-22.14.20:797][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/FlashBasic" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/FlashBasic_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.07.06-22.14.27:892][945]LogSavePackage: Save=3462.32ms
+[2018.07.06-22.14.27:892][945]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/FlashBasic_Auto2895307DD4F5D1DECC68DB1B15F30E529.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/FlashBasic_Auto2.uasset'
+[2018.07.06-22.14.27:945][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/FlashBasic_Auto2.uasset
+[2018.07.06-22.14.27:946][945]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Flash/Walking__1__Anim] ([1] browsable assets)...
+[2018.07.06-22.14.28:116][945]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Flash/Walking__1__Anim.Walking__1__Anim]
+[2018.07.06-22.14.28:116][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/Walking__1__Anim]
+[2018.07.06-22.14.28:546][945]LogSavePackage: Save=424.16ms
+[2018.07.06-22.14.28:546][945]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Walking__1__Anim_Auto2E972DB4B4759D04488BD669CB3D59181.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Walking__1__Anim_Auto2.uasset'
+[2018.07.06-22.14.28:575][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Walking__1__Anim_Auto2.uasset
+[2018.07.06-22.14.28:576][945]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Flash/Idle_Anim] ([1] browsable assets)...
+[2018.07.06-22.14.28:811][945]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Flash/Idle_Anim.Idle_Anim]
+[2018.07.06-22.14.28:812][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/Idle_Anim]
+[2018.07.06-22.14.28:813][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Idle_Anim" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_Anim_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.07.06-22.14.29:028][945]LogSavePackage: Save=211.79ms
+[2018.07.06-22.14.29:029][945]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Idle_Anim_Auto2A178E95146686910D8E926924BDD92D3.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_Anim_Auto2.uasset'
+[2018.07.06-22.14.29:032][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/Idle_Anim_Auto2.uasset
+[2018.07.06-22.14.29:034][945]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Flash/FlashCharacter] ([1] browsable assets)...
+[2018.07.06-22.14.29:086][945]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Flash/FlashCharacter.FlashCharacter]
+[2018.07.06-22.14.29:086][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flash/FlashCharacter]
+[2018.07.06-22.14.30:103][945]LogSavePackage: Save=955.05ms
+[2018.07.06-22.14.30:104][945]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/FlashCharacter_Auto29F2F19C84E9DC5D7FABD4CB880F9EA4F.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/FlashCharacter_Auto2.uasset'
+[2018.07.06-22.14.30:158][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Flash/FlashCharacter_Auto2.uasset
+[2018.07.06-22.14.30:159][945]LogFileHelpers: Auto-saving content packages took 9.736
+[2018.07.06-22.14.32:611][  6]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.06-22.14.33:478][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-22.14.33:789][  6]PIE: New page: PIE session: Map2 (7 Jul 2018 00:14:33)
+[2018.07.06-22.14.33:828][  6]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.06-22.14.33:998][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169478s)
+[2018.07.06-22.14.34:054][  6]LogAIModule: Creating AISystem for world Map2
+[2018.07.06-22.14.34:097][  6]LogPlayLevel: PIE: World Init took: (0.098345s)
+[2018.07.06-22.14.34:097][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.276567s)
+[2018.07.06-22.14.34:903][  6]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-22.14.36:092][  6]LogInit: FAudioDevice initialized.
+[2018.07.06-22.14.36:625][  6]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.06-22.14.36:762][  6]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.06-23.14.36
+[2018.07.06-22.14.36:826][  6]LogWorld: Bringing up level for play took: 0.174436
+[2018.07.06-22.14.40:781][  6]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0247 seconds. Added 11 classes and 0 folders.
+[2018.07.06-22.14.40:803][  6]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.14.40:803][  6]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.14.40:803][  6]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.14.41:054][  6]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.14.41:104][  6]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 6.745
+[2018.07.06-22.15.16:718][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_4.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.07.06-22.15.18:407][830]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.Actor_4.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2018.07.06-22.15.20:071][831]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.06-22.16.00:016][438]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.16.02:623][482]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.06-22.16.02:811][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-22.16.02:812][482]PIE: New page: PIE session: Map2 (7 Jul 2018 00:16:02)
+[2018.07.06-22.16.02:812][482]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.06-22.16.02:816][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003811s)
+[2018.07.06-22.16.02:817][482]LogAIModule: Creating AISystem for world Map2
+[2018.07.06-22.16.02:818][482]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2018.07.06-22.16.02:818][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.005854s)
+[2018.07.06-22.16.02:883][482]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-22.16.02:920][482]LogInit: FAudioDevice initialized.
+[2018.07.06-22.16.02:958][482]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.06-22.16.02:961][482]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.06-23.16.02
+[2018.07.06-22.16.02:962][482]LogWorld: Bringing up level for play took: 0.002494
+[2018.07.06-22.16.02:963][482]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.16.02:963][482]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.16.02:963][482]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.16.02:966][482]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.16.02:966][482]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 0.607
+[2018.07.06-22.16.25:845][  1]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.16.32:626][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.06-22.16.32:732][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-22.16.32:733][112]PIE: New page: PIE session: Map2 (7 Jul 2018 00:16:32)
+[2018.07.06-22.16.32:733][112]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.06-22.16.32:743][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009756s)
+[2018.07.06-22.16.32:744][112]LogAIModule: Creating AISystem for world Map2
+[2018.07.06-22.16.32:744][112]LogPlayLevel: PIE: World Init took: (0.001515s)
+[2018.07.06-22.16.32:745][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.011826s)
+[2018.07.06-22.16.32:796][112]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-22.16.32:893][112]LogInit: FAudioDevice initialized.
+[2018.07.06-22.16.32:933][112]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.06-22.16.32:936][112]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.06-23.16.32
+[2018.07.06-22.16.32:936][112]LogWorld: Bringing up level for play took: 0.002575
+[2018.07.06-22.16.32:937][112]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.16.32:938][112]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.16.32:938][112]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.16.32:940][112]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.16.32:941][112]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 0.582
+[2018.07.06-22.16.59:571][636]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.17.02:111][675]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.06-22.17.02:321][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-22.17.02:321][675]PIE: New page: PIE session: Map2 (7 Jul 2018 00:17:02)
+[2018.07.06-22.17.02:321][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.06-22.17.02:327][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005591s)
+[2018.07.06-22.17.02:329][675]LogAIModule: Creating AISystem for world Map2
+[2018.07.06-22.17.02:329][675]LogPlayLevel: PIE: World Init took: (0.001635s)
+[2018.07.06-22.17.02:329][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.008053s)
+[2018.07.06-22.17.02:382][675]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-22.17.02:421][675]LogInit: FAudioDevice initialized.
+[2018.07.06-22.17.02:462][675]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.06-22.17.02:465][675]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.06-23.17.02
+[2018.07.06-22.17.02:465][675]LogWorld: Bringing up level for play took: 0.002426
+[2018.07.06-22.17.02:466][675]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.17.02:466][675]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.17.02:466][675]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.17.02:469][675]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.17.02:469][675]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 0.11
+[2018.07.06-22.17.25:960][201]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.17.33:202][302]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.06-22.17.33:268][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-22.17.33:268][302]PIE: New page: PIE session: Map2 (7 Jul 2018 00:17:33)
+[2018.07.06-22.17.33:268][302]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.06-22.17.33:280][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011046s)
+[2018.07.06-22.17.33:281][302]LogAIModule: Creating AISystem for world Map2
+[2018.07.06-22.17.33:282][302]LogPlayLevel: PIE: World Init took: (0.001891s)
+[2018.07.06-22.17.33:282][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.013678s)
+[2018.07.06-22.17.33:338][302]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-22.17.33:382][302]LogInit: FAudioDevice initialized.
+[2018.07.06-22.17.33:420][302]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.06-22.17.33:423][302]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.06-23.17.33
+[2018.07.06-22.17.33:423][302]LogWorld: Bringing up level for play took: 0.002475
+[2018.07.06-22.17.33:424][302]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.17.33:424][302]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.17.33:424][302]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.17.33:427][302]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.17.33:427][302]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 1.069
+[2018.07.06-22.17.54:372][783]BlueprintLog: New page: Compile FlashBasic
+[2018.07.06-22.17.57:997][839]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.06-22.17.58:064][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-22.17.58:064][839]PIE: New page: PIE session: Map2 (7 Jul 2018 00:17:58)
+[2018.07.06-22.17.58:065][839]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.06-22.17.58:076][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011428s)
+[2018.07.06-22.17.58:079][839]LogAIModule: Creating AISystem for world Map2
+[2018.07.06-22.17.58:079][839]LogPlayLevel: PIE: World Init took: (0.002801s)
+[2018.07.06-22.17.58:080][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.014948s)
+[2018.07.06-22.17.58:142][839]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-22.17.58:186][839]LogInit: FAudioDevice initialized.
+[2018.07.06-22.17.58:225][839]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.06-22.17.58:228][839]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.06-23.17.58
+[2018.07.06-22.17.58:228][839]LogWorld: Bringing up level for play took: 0.002445
+[2018.07.06-22.17.58:229][839]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.17.58:229][839]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.17.58:229][839]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.17.58:232][839]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.17.58:232][839]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 -0.127
+[2018.07.06-22.19.10:482][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.07.06-22.19.36:319][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.07.06-22.20.04:575][145]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.06-22.20.04:661][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-22.20.04:661][145]PIE: New page: PIE session: Map2 (7 Jul 2018 00:20:04)
+[2018.07.06-22.20.04:661][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map2
+[2018.07.06-22.20.04:667][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006111s)
+[2018.07.06-22.20.04:668][145]LogAIModule: Creating AISystem for world Map2
+[2018.07.06-22.20.04:669][145]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2018.07.06-22.20.04:669][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map2.Map2 to /Game/UEDPIE_0_Map2.Map2 (0.008193s)
+[2018.07.06-22.20.04:731][145]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-22.20.04:769][145]LogInit: FAudioDevice initialized.
+[2018.07.06-22.20.04:805][145]LogLoad: Game class is 'DCGamemode_C'
+[2018.07.06-22.20.04:808][145]LogWorld: Bringing World /Game/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2018.07.06-23.20.04
+[2018.07.06-22.20.04:809][145]LogWorld: Bringing up level for play took: 0.002660
+[2018.07.06-22.20.04:809][145]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.20.04:810][145]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.06-22.20.04:810][145]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.20.04:812][145]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.06-22.20.04:812][145]PIE: Play in editor start time for /Game/UEDPIE_0_Map2 0.453
+[2018.07.06-22.20.15:337][408]MapCheck: New page: Map Check
+[2018.07.06-22.20.15:459][408]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.06-22.20.15:555][408]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.06-22.20.16:617][408]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.06-22.20.16:931][408]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.06-22.20.16:941][408]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.07.06-22.20.29:154][408]TextureStreamingBuild: Display: Compiling optional shaders took 12.945 seconds.
+[2018.07.06-22.20.29:343][408]LogLevel: Display: Export Material TexCoord Scales took 0.179 seconds.
+[2018.07.06-22.20.29:404][408]TextureStreamingBuild: Display: Build Texture Streaming took 0.061 seconds.
+[2018.07.06-22.20.29:500][408]LightingResults: New page: Lighting Build - 7 Jul 2018 00:20:29
+[2018.07.06-22.20.32:957][408]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.06-22.20.34:417][408]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.06-22.20.40:300][408]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.06-22.20.40:933][408]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.06-22.20.40:933][408]LogSwarmInterface: [TryOpenConnection] Local Process ID is 134496
+[2018.07.06-22.20.50:966][408]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.07.06-22.20.50:993][408]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.06-22.20.51:029][408]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.06-22.20.51:029][408]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.06-22.20.51:029][408]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.06-22.20.51:029][408]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.06-22.20.53:208][408]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.06-22.20.53:223][408]MapCheck: New page: Map2 - 7 Jul 2018 00:20:53
+[2018.07.06-22.20.53:242][408]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.07.06-22.20.57:171][408]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3,962.073ms to complete.
+[2018.07.06-22.20.57:195][408]LogEditorBuildUtils: Build time 0:41
+[2018.07.06-22.21.34:032][711]Job is a success!
+[2018.07.06-22.21.44:113][712]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.07.06-22.21.44:113][712]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.07.06-22.21.44:113][712]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2018.07.06-22.21.44:113][712]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2018.07.06-22.21.44:113][712]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2018.07.06-22.21.44:113][712]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2018.07.06-22.21.44:113][712]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.07.06-22.21.44:114][712]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.07.06-22.21.46:324][712]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X128)
+[2018.07.06-22.21.46:324][712]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 128X64)
+[2018.07.06-22.21.46:325][712]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 32X32)
+[2018.07.06-22.21.46:385][712]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 128X64)
+[2018.07.06-22.21.47:626][712]Lightmass on STARLORD: 31.8 sec total, 753 ms importing, 49 ms setup, 6.16 sec photons, 23.5 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 1:34 min total, 16.1 sec processing.
+[2018.07.06-22.21.48:454][712]LogStaticLightingSystem: Illumination: 1:18 min (2.10 sec encoding lightmaps, 2.26 sec encoding shadowmaps)
+[2018.07.06-22.21.48:454][712]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 8 textures
+[2018.07.06-22.21.48:454][712]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.06-22.21.49:178][712]DumpUnbuiltLightIteractions
+[2018.07.06-22.21.49:178][712]Lights with unbuilt interactions: 0
+[2018.07.06-22.21.49:178][712]
+[2018.07.06-22.21.49:178][712]Primitives with unbuilt interactions: 0
+[2018.07.06-22.21.49:270][713]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.06-22.21.49:270][713]MapCheck: New page: Map2 - 7 Jul 2018 00:21:49
+[2018.07.06-22.21.49:818][713]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 546.931ms to complete.
+[2018.07.06-22.22.06:009][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/FlashBasic" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/FlashBasic.uasset" SILENT=true
+[2018.07.06-22.22.06:522][805]LogSavePackage: Save=432.21ms
+[2018.07.06-22.22.06:524][805]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/FlashBasicDB0E72A542ED7DA7E9E4D7AC5A70C462.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/FlashBasic.uasset'
+[2018.07.06-22.22.06:575][805]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/FlashBasic.uasset
+[2018.07.06-22.27.20:520][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map2" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.06-22.27.21:036][929]LogSavePackage: Save=138.35ms
+[2018.07.06-22.27.21:036][929]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Map2_Auto3125E68AF47305E4BBF114D8F5C6E199C.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_Auto3.umap'
+[2018.07.06-22.27.21:065][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_Auto3.umap
+[2018.07.06-22.27.21:115][929]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map2' took 0.835
+[2018.07.06-22.27.21:117][929]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.835
+[2018.07.06-22.27.21:121][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map2_BuiltData] ([1] browsable assets)...
+[2018.07.06-22.27.21:121][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map2_BuiltData]
+[2018.07.06-22.27.21:121][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map2_BuiltData" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_BuiltData_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.07.06-22.27.21:620][929]LogSavePackage: Save=291.55ms
+[2018.07.06-22.27.21:621][929]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Map2_BuiltData_Auto348432CF54B60111CC2A5D9BCD1712F6A.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_BuiltData_Auto3.uasset'
+[2018.07.06-22.27.21:662][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Autosaves/Game/Map2_BuiltData_Auto3.uasset
+[2018.07.06-22.27.21:662][929]LogFileHelpers: Auto-saving content packages took 0.543
+[2018.07.06-22.31.11:471][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map2" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.06-22.31.12:008][524]LogSavePackage: Save=294.36ms
+[2018.07.06-22.31.12:008][524]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Map28D07E45244FDA5DA456A029EBA510DE0.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2.umap'
+[2018.07.06-22.31.12:480][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2.umap
+[2018.07.06-22.31.12:992][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map2_BuiltData" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2_BuiltData.uasset" SILENT=true
+[2018.07.06-22.31.13:479][524]LogSavePackage: Save=413.32ms
+[2018.07.06-22.31.13:479][524]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Map2_BuiltDataFD325ECE404FEA7D40112789FC418309.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2_BuiltData.uasset'
+[2018.07.06-22.31.13:608][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Map2_BuiltData.uasset
+[2018.07.06-22.31.17:373][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/FlashCharacter" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/FlashCharacter.uasset" SILENT=true
+[2018.07.06-22.31.17:804][544]LogSavePackage: Save=242.27ms
+[2018.07.06-22.31.17:804][544]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/FlashCharacter0CEBBC794C6666728BDD979446B7FAB1.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/FlashCharacter.uasset'
+[2018.07.06-22.31.18:316][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/FlashCharacter.uasset
+[2018.07.06-22.31.19:487][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Idle" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Idle.uasset" SILENT=true
+[2018.07.06-22.31.22:160][544]LogSavePackage: Save=2556.61ms
+[2018.07.06-22.31.22:160][544]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Idle141C9C08402E351075392C9B887724EE.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Idle.uasset'
+[2018.07.06-22.31.22:212][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Idle.uasset
+[2018.07.06-22.31.22:284][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Idle_Anim" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Idle_Anim.uasset" SILENT=true
+[2018.07.06-22.31.22:655][544]LogSavePackage: Save=366.73ms
+[2018.07.06-22.31.22:655][544]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Idle_AnimE1DAFB714A29745436FF5DADFFC20C87.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Idle_Anim.uasset'
+[2018.07.06-22.31.22:712][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Idle_Anim.uasset
+[2018.07.06-22.31.22:829][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Idle_PhysicsAsset" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Idle_PhysicsAsset.uasset" SILENT=true
+[2018.07.06-22.31.23:035][544]LogSavePackage: Save=201.72ms
+[2018.07.06-22.31.23:035][544]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Idle_PhysicsAsset1BF21E1F4359776385F43895C15D7839.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Idle_PhysicsAsset.uasset'
+[2018.07.06-22.31.23:041][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Idle_PhysicsAsset.uasset
+[2018.07.06-22.31.23:514][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Walking__1_" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Walking__1_.uasset" SILENT=true
+[2018.07.06-22.31.24:663][544]LogSavePackage: Save=1085.78ms
+[2018.07.06-22.31.24:663][544]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Walking__1_16302C2A4DAC625C0B0C62B11501A460.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Walking__1_.uasset'
+[2018.07.06-22.31.24:731][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Walking__1_.uasset
+[2018.07.06-22.31.24:907][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Walking__1__Anim" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Walking__1__Anim.uasset" SILENT=true
+[2018.07.06-22.31.25:014][544]LogSavePackage: Save=92.10ms
+[2018.07.06-22.31.25:014][544]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Walking__1__AnimA4B844AA4AE5044D399AAE8A64CCFE03.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Walking__1__Anim.uasset'
+[2018.07.06-22.31.25:025][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Walking__1__Anim.uasset
+[2018.07.06-22.31.25:031][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flash/Walking__1__PhysicsAsset" FILE="../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Walking__1__PhysicsAsset.uasset" SILENT=true
+[2018.07.06-22.31.25:064][544]LogSavePackage: Save=28.75ms
+[2018.07.06-22.31.25:064][544]LogSavePackage: Moving '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Walking__1__PhysicsAsset3E8CC7E447A579082EB0EC9B77997080.tmp' to '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Walking__1__PhysicsAsset.uasset'
+[2018.07.06-22.31.25:113][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/Flash/Walking__1__PhysicsAsset.uasset
+[2018.07.06-22.31.32:519][545]Cmd: QUIT_EDITOR
+[2018.07.06-22.31.45:954][545]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.06-22.31.46:999][545]LogExit: Preparing to exit.
+[2018.07.06-22.32.14:743][545]LogDirectoryWatcher: A directory notification for 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/' was aborted.
+[2018.07.06-22.32.33:768][545]LogExit: Editor shut down
+[2018.07.06-22.32.34:703][545]LogExit: Transaction tracking system shut down
+[2018.07.06-22.32.44:047][545]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.06-22.32.44:048][545]LogDirectoryWatcher: A directory notification for '../../../../../../Users/oaste/Documents/Unreal Projects/DCJnO/Content/' was aborted.
+[2018.07.06-22.32.44:048][545]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.06-22.32.44:051][545]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.06-22.32.44:051][545]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.06-22.33.07:538][545]LogExit: Object subsystem successfully closed.
+[2018.07.06-22.33.08:611][545]LogD3D11RHI: Shutdown
+[2018.07.06-22.33.08:697][545]LogD3D11RHI: CleanupD3DDevice
+[2018.07.06-22.33.11:866][545]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.06-22.33.18:435][545]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (546)
+[2018.07.06-22.33.18:451][545]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (544)
+[2018.07.06-22.33.18:460][545]LogModuleManager: Shutting down and abandoning module AnimationEditor (542)
+[2018.07.06-22.33.18:460][545]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (540)
+[2018.07.06-22.33.18:460][545]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2018.07.06-22.33.18:460][545]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2018.07.06-22.33.18:531][545]LogModuleManager: Shutting down and abandoning module SkeletonEditor (534)
+[2018.07.06-22.33.18:540][545]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (532)
+[2018.07.06-22.33.18:540][545]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.07.06-22.33.18:540][545]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.07.06-22.33.18:554][545]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.07.06-22.33.18:638][545]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.07.06-22.33.19:131][545]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.07.06-22.33.19:131][545]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.07.06-22.33.19:131][545]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.07.06-22.33.19:172][545]LogDirectoryWatcher: A directory notification for 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Collections/' was aborted.
+[2018.07.06-22.33.19:172][545]LogDirectoryWatcher: A directory notification for 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Content/Developers/oaste/Collections/' was aborted.
+[2018.07.06-22.33.19:172][545]LogDirectoryWatcher: A directory notification for 'C:/Users/oaste/Documents/Unreal Projects/DCJnO/Saved/Collections/' was aborted.
+[2018.07.06-22.33.19:172][545]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.07.06-22.33.19:202][545]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.07.06-22.33.19:236][545]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.07.06-22.33.19:522][545]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.07.06-22.33.19:553][545]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.07.06-22.33.19:553][545]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.07.06-22.33.19:554][545]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.07.06-22.33.19:554][545]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.07.06-22.33.19:554][545]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.07.06-22.33.19:574][545]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.07.06-22.33.19:574][545]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.07.06-22.33.19:605][545]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.07.06-22.33.19:631][545]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.07.06-22.33.19:686][545]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.07.06-22.33.19:738][545]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.07.06-22.33.19:843][545]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.07.06-22.33.19:859][545]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.07.06-22.33.19:859][545]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.07.06-22.33.19:859][545]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.07.06-22.33.19:859][545]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.07.06-22.33.19:859][545]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.07.06-22.33.19:859][545]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.07.06-22.33.19:859][545]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.07.06-22.33.19:859][545]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.07.06-22.33.19:860][545]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.07.06-22.33.19:884][545]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.07.06-22.33.19:906][545]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.07.06-22.33.19:906][545]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.07.06-22.33.19:906][545]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.07.06-22.33.19:906][545]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.07.06-22.33.19:906][545]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.07.06-22.33.19:948][545]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.07.06-22.33.19:988][545]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.07.06-22.33.20:029][545]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.07.06-22.33.20:161][545]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.07.06-22.33.20:180][545]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.07.06-22.33.20:180][545]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.07.06-22.33.20:180][545]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.07.06-22.33.20:704][545]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.07.06-22.33.20:704][545]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.07.06-22.33.20:704][545]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.07.06-22.33.20:704][545]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.07.06-22.33.20:721][545]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.07.06-22.33.20:815][545]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.07.06-22.33.20:838][545]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.07.06-22.33.20:880][545]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.07.06-22.33.20:885][545]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.07.06-22.33.20:937][545]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.07.06-22.33.20:953][545]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.07.06-22.33.20:953][545]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.07.06-22.33.20:961][545]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.07.06-22.33.20:967][545]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.07.06-22.33.20:990][545]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.07.06-22.33.21:005][545]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.07.06-22.33.21:005][545]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.07.06-22.33.21:064][545]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.07.06-22.33.21:064][545]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.07.06-22.33.21:093][545]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.07.06-22.33.21:152][545]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.07.06-22.33.21:168][545]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.07.06-22.33.21:184][545]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.07.06-22.33.21:267][545]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.07.06-22.33.21:385][545]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.07.06-22.33.21:422][545]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.07.06-22.33.21:471][545]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.07.06-22.33.21:551][545]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.07.06-22.33.21:551][545]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.07.06-22.33.21:653][545]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.07.06-22.33.21:653][545]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.07.06-22.33.21:701][545]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.07.06-22.33.21:701][545]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.07.06-22.33.21:701][545]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.07.06-22.33.22:178][545]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.07.06-22.33.22:192][545]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.07.06-22.33.22:198][545]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.07.06-22.33.22:207][545]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.07.06-22.33.22:300][545]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.07.06-22.33.22:300][545]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.07.06-22.33.22:312][545]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.07.06-22.33.22:539][545]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.07.06-22.33.22:562][545]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.07.06-22.33.22:563][545]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.07.06-22.33.22:563][545]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.07.06-22.33.23:179][545]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.07.06-22.33.23:247][545]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.07.06-22.33.23:247][545]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.07.06-22.33.23:247][545]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.07.06-22.33.23:247][545]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.07.06-22.33.23:247][545]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.07.06-22.33.23:247][545]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.07.06-22.33.23:247][545]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.07.06-22.33.23:248][545]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.07.06-22.33.23:308][545]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.07.06-22.33.23:577][545]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.07.06-22.33.23:688][545]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.07.06-22.33.23:688][545]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.07.06-22.33.23:701][545]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.07.06-22.33.23:701][545]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.07.06-22.33.23:701][545]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.07.06-22.33.23:701][545]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.07.06-22.33.23:701][545]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.07.06-22.33.23:701][545]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.07.06-22.33.23:701][545]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.07.06-22.33.23:701][545]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.07.06-22.33.23:752][545]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.07.06-22.33.23:752][545]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.07.06-22.33.23:766][545]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.07.06-22.33.23:766][545]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.07.06-22.33.23:766][545]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.07.06-22.33.23:766][545]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.07.06-22.33.23:766][545]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.07.06-22.33.23:999][545]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.07.06-22.33.24:053][545]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.07.06-22.33.24:093][545]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.07.06-22.33.24:117][545]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.07.06-22.33.24:117][545]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.07.06-22.33.24:145][545]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.07.06-22.33.24:186][545]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.07.06-22.33.24:250][545]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.07.06-22.33.24:351][545]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.07.06-22.33.24:351][545]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.07.06-22.33.24:351][545]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.07.06-22.33.24:351][545]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.07.06-22.33.24:429][545]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.07.06-22.33.24:494][545]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.07.06-22.33.24:758][545]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.07.06-22.33.24:807][545]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.07.06-22.33.24:819][545]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.07.06-22.33.24:872][545]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.07.06-22.33.24:872][545]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.07.06-22.33.24:885][545]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.07.06-22.33.24:885][545]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.07.06-22.33.24:885][545]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.07.06-22.33.24:885][545]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.07.06-22.33.24:885][545]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.07.06-22.33.24:885][545]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.07.06-22.33.24:993][545]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.07.06-22.33.25:117][545]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.07.06-22.33.25:443][545]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.07.06-22.33.25:529][545]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.07.06-22.33.25:530][545]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.07.06-22.33.25:608][545]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.07.06-22.33.25:608][545]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.07.06-22.33.25:752][545]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.07.06-22.33.25:752][545]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.07.06-22.33.25:771][545]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.07.06-22.33.25:826][545]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.07.06-22.33.25:899][545]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.07.06-22.33.25:899][545]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.07.06-22.33.25:903][545]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.07.06-22.33.25:927][545]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.07.06-22.33.25:927][545]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.07.06-22.33.25:927][545]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.07.06-22.33.25:927][545]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.07.06-22.33.25:950][545]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.07.06-22.33.25:968][545]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.07.06-22.33.25:968][545]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.07.06-22.33.26:020][545]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.07.06-22.33.26:062][545]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.07.06-22.33.26:094][545]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.07.06-22.33.26:149][545]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.07.06-22.33.26:213][545]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.07.06-22.33.26:274][545]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.07.06-22.33.26:377][545]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.07.06-22.33.26:377][545]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.07.06-22.33.26:837][545]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.07.06-22.33.26:837][545]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.07.06-22.33.26:902][545]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.07.06-22.33.26:902][545]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.07.06-22.33.26:902][545]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.07.06-22.33.26:925][545]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.07.06-22.33.26:925][545]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.07.06-22.33.26:925][545]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.07.06-22.33.26:925][545]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.07.06-22.33.26:925][545]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.07.06-22.33.26:925][545]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.07.06-22.33.27:182][545]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.07.06-22.33.27:464][545]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.07.06-22.33.27:464][545]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.07.06-22.33.27:545][545]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.07.06-22.33.27:654][545]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.07.06-22.33.27:897][545]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.07.06-22.33.28:186][545]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.07.06-22.33.28:206][545]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.07.06-22.33.28:828][545]LogDerivedDataCache: Shutdown
+[2018.07.06-22.33.28:829][545]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.07.06-22.33.28:984][545]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.07.06-22.33.29:677][545]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.07.06-22.33.29:719][545]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.07.06-22.33.29:783][545]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.07.06-22.33.29:903][545]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.07.06-22.33.30:040][545]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.07.06-22.33.30:041][545]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.07.06-22.33.30:041][545]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.07.06-22.33.30:041][545]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.07.06-22.33.30:508][545]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.07.06-22.33.30:508][545]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.07.06-22.33.30:508][545]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.07.06-22.33.30:508][545]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.07.06-22.33.30:508][545]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.07.06-22.33.30:508][545]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.07.06-22.33.30:533][545]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.07.06-22.33.30:534][545]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.07.06-22.33.30:534][545]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.07.06-22.33.30:534][545]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.07.06-22.33.30:534][545]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.07.06-22.33.30:534][545]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.07.06-22.33.30:534][545]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.07.06-22.33.30:534][545]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.07.06-22.33.30:534][545]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.07.06-22.33.30:534][545]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.07.06-22.33.30:566][545]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.07.06-22.33.30:566][545]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.07.06-22.33.30:566][545]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.07.06-22.33.30:566][545]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.07.06-22.33.30:566][545]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.07.06-22.33.30:566][545]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.07.06-22.33.30:566][545]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.07.06-22.33.30:566][545]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.07.06-22.33.30:566][545]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.07.06-22.33.30:580][545]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.07.06-22.33.30:580][545]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.07.06-22.33.30:580][545]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.07.06-22.33.30:580][545]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.07.06-22.33.30:580][545]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.07.06-22.33.30:580][545]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.07.06-22.33.30:580][545]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.07.06-22.33.30:580][545]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.07.06-22.33.30:633][545]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.07.06-22.33.30:633][545]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.07.06-22.33.30:634][545]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.07.06-22.33.30:676][545]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.07.06-22.33.30:694][545]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.06-22.33.30:695][545]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.06-22.33.30:695][545]LogOnline: Display: Unloading online subsystem: NULL
+[2018.07.06-22.33.30:821][545]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.06-22.33.30:961][545]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.06-22.33.30:971][545]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.06-22.33.30:980][545]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAB3176F7-4ED0-12BB-0361-CD911D1460E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=543d467c4424f055ada612a4e4a7973a%7Cbc011444d2864bdf9695488c55616eb7%7Cfc0836ed-f7bc-4f31-a175-fafc700928d7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.06-22.33.31:087][545]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.06-22.33.31:222][545]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.06-22.33.31:371][545]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.06-22.33.31:497][545]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.06-22.33.31:561][545]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.06-22.33.31:562][545]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.06-22.33.31:562][545]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.06-22.33.31:562][545]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.06-22.33.31:830][545]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.06-22.33.31:850][545]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.06-22.33.31:850][545]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.06-22.33.31:869][545]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.06-22.33.31:869][545]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.06-22.33.31:869][545]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.06-22.33.31:869][545]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.06-22.33.31:908][545]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.06-22.33.31:908][545]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.06-22.33.31:918][545]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.06-22.33.31:929][545]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.06-22.33.32:009][545]LogExit: Exiting.
+[2018.07.06-22.33.32:345][545]Log file closed, 07/06/18 23:33:32
